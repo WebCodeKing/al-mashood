@@ -1,4 +1,5 @@
 // components/Navbar.js
+import Link from 'next/link';
 import React, { useState } from 'react';
 
 const Navbar = () => {
@@ -8,7 +9,7 @@ const Navbar = () => {
 
   return (
     // component
-    <div className="flex flex-wrap place-items-center opacity-80">
+    <div className="flex flex-wrap place-items-center opacity-50">
       <section className="relative mx-auto">
         {/* Navbar */}
         <nav className="flex justify-between bg-gray-900 text-white w-screen">
@@ -19,10 +20,21 @@ const Navbar = () => {
             </a>
             {/* Nav Links */}
             <ul className="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12">
-              <li><a className="hover:text-gray-200" href="#">Home</a></li>
-              <li><a className="hover:text-gray-200" href="#">Category</a></li>
-              <li><a className="hover:text-gray-200" href="#">Collections</a></li>
-              <li><a className="hover:text-gray-200" href="#">Contact Us</a></li>
+              <Link legacyBehavior href="/"><a><li className="hover:text-gray-200">Home</li></a></Link>
+              <Link legacyBehavior href="/about"><a className="hover:text-gray-200" href="#"><li>About</li></a></Link>
+              <Link legacyBehavior href="/packages"><a><li className="hover:text-gray-200">Packages</li></a></Link>
+              <li class="relative group">
+  <div class="inline-block">
+    <a href="#" class="hover:text-gray-300">SECP</a>
+    <ul class="absolute left-0 mt-1 w-40 bg-black text-white rounded shadow-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
+      <Link legacyBehavior href="/secp/hajj2024"><li class="px-4 py-2 hover:bg-gray-700"><a href="#">Hajj 2024</a></li></Link>
+      <Link legacyBehavior href="/secp/hajj2025"><li class="px-4 py-2 hover:bg-gray-700"><a>Hajj 2025</a></li></Link>
+      {/* <li class="px-4 py-2 hover:bg-gray-700"><a href="#">Marketing</a></li> */}
+    </ul>
+  </div>
+</li>
+
+              <Link legacyBehavior href="/contact"><a><li className="hover:text-gray-200">Contact</li></a></Link>
             </ul>
             {/* Header Icons */}
             <div className="hidden xl:flex items-center space-x-5 items-center">
