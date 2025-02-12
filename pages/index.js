@@ -15,6 +15,20 @@ export default function Home() {
   return (
     <>
     <div className="flex-col justify-items-center mx-w-[100%]">
+       <div className="w-full h-auto flex items-center justify-center">
+            <Image
+            src="/homepage/main.jpg"
+            width={1920}
+            height={1080}
+            className=""
+            />
+               <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-30 rounded-xl">
+                              <h1 className="text-[45px] font-bold z-10">About Al-Mashood Munazzam Pvt Ltd</h1>
+                              <p className="text-[22px] mt-3 max-w-[55vw] mx-auto">
+                              We ensure a seamless, comfortable, and spiritually fulfilling journey with expert guidance and premium services.
+                              </p>
+                          </div>
+                          </div>
       <div className="flex justify-center mt-16 max-w-[85%] rounded-3xl">
         <section className="bg-white dark:bg-gray-900 bg-gray bg-opacity-0">
           <div className="grid justify-items-center max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
