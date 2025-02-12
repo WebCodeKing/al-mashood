@@ -5,12 +5,12 @@ import "@/styles/globals.css";
 
 export default function App({ Component, pageProps }) {
     return <>
-    <div id="background" className="">
-  <Particles/><div className="relative z-10">   
+    {/* <div id="background" className="">
+  <div className="relative z-10">    */}
   <Navbar/>
   <Component {...pageProps} />;
   <Footer/>
-  </div>
-  </div>
+  {/* </div>
+  </div> */}
   </>
 }

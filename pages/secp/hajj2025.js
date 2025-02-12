@@ -8,7 +8,7 @@ const hajj2025 = () => {
   return (
     <>
     <div className='flex-col justify-items-center'>
-    <div className='max-w-[85%] my-[110px] bg-black bg-opacity-[40%]'>
+    <div className='max-w-[85%] my-[110px] bg-opacity-[40%]'>
           <Swiper
           modules={[Navigation, Pagination, Autoplay]}
           spaceBetween={20}

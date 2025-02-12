@@ -16,9 +16,9 @@ const Packages = () => {
       src="/Packages/title.jpeg"
       width={1920}
       height={1080}
-      className="opacity-[70%]"
+      className=""
       />
-         <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-30">
+         <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-60 rounded-xl">
                         <h1 className="text-[45px] font-bold z-10">About Al-Mashood Munazzam Pvt Ltd</h1>
                         <p className="text-[22px] mt-3 max-w-[55vw] mx-auto">
                             Your trusted companion in Hajj & Umrah journeys, providing seamless
@@ -29,14 +29,14 @@ const Packages = () => {
     <div className="max-w-6xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center gap-8">
       {/* Left Side - Package Description */}
       <div className="w-full md:w-1/2 text-left">
-        <h2 className="text-3xl font-bold text-gray-200 mb-4">Hajj & Umrah Packages</h2>
-        <p className="text-gray-200 leading-relaxed">
+        <h2 className="text-3xl font-bold mb-4">Hajj & Umrah Packages</h2>
+        <p className="leading-relaxed">
           Experience a hassle-free and spiritually enriching journey with our **Hajj & Umrah** packages. 
           We offer a range of services including visa assistance, comfortable accommodations, guided tours, and 
           transport facilities in Makkah and Madinah. Our expert team ensures a smooth pilgrimage experience, 
           allowing you to focus on your ibadah (worship).
         </p>
-        <p className="text-gray-200 mt-4">
+        <p className=" mt-4">
           Choose from **economy, premium, and VIP packages**, tailored to meet your budget and preferences. 
           Book now and let us take care of all the arrangements for your sacred journey!
         </p>
