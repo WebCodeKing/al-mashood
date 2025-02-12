@@ -22,7 +22,7 @@ export default function Home() {
             height={1080}
             className=""
             />
-               <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-30 rounded-xl">
+               <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-40 rounded-xl mt-[150px]">
                               <h1 className="text-[45px] font-bold z-10">About Al-Mashood Munazzam Pvt Ltd</h1>
                               <p className="text-[22px] mt-3 max-w-[55vw] mx-auto">
                               We ensure a seamless, comfortable, and spiritually fulfilling journey with expert guidance and premium services.

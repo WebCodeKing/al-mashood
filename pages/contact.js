@@ -22,9 +22,7 @@ const Contact = () => {
                <p
                   class="text-base leading-relaxed text-body-color dark:text-dark-6 mb-9"
                   >
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eius tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                  adiqua minim veniam quis nostrud exercitation ullamco
+                  We are here to assist you in making your Hajj and Umrah journey smooth and stress-free. Whether you have inquiries about our services, need guidance on travel arrangements, or require personalized assistance, our dedicated team is ready to help. Reach out to us, and let us be part of your spiritual journey
                </p>
                <div class="mb-8 flex w-full max-w-[370px]">
                   <div

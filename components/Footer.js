@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import React from 'react'
 
 const Footer = () => {
@@ -6,9 +7,13 @@ const Footer = () => {
   <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col text-center">
     <div className="flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
       <a className="flex title-font font-medium items-center md:justify-start justify-center text-white">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
-          <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-        </svg>
+         <Image
+                        src="/favicon.png"
+                        alt="Madina Image"
+                        width={50}
+                        height={10}
+                        className=""
+                      />
         <span className="ml-3 text-xl">Al-Mashood Munazzam Pvt Ltd.</span>
       </a>
       <p className="hidden mt-2 text-sm text-gray-500">Air plant banjo lyft occupy retro adaptogen indego</p>
