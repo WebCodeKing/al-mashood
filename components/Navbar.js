@@ -29,7 +29,8 @@ const Navbar = () => {
             <ul className="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12 justify-self-center">
               <Link legacyBehavior href="/"><a><li className="hover:text-gray-200">Home</li></a></Link>
               <Link legacyBehavior href="/about"><a className="hover:text-gray-200" href="#"><li>About</li></a></Link>
-              <Link legacyBehavior href="/packages"><a><li className="hover:text-gray-200">Packages</li></a></Link>
+              <Link legacyBehavior href="/packages"><a><li className="hover:text-gray-200">Affiliate Companies
+              </li></a></Link>
               <li class="relative group">
                 <div class="inline-block">
                   <a href="#" class="hover:text-gray-300">SECP</a>
