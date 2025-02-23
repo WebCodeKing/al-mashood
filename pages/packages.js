@@ -13,7 +13,7 @@ const Packages = () => {
     <div>
       <div className="w-full h-auto flex items-center justify-center">
       <Image
-      src="/Packages/Package-5.jpg"
+      src="/Packages/title.jpeg"
       width={1920}
       height={1080}
       className=""

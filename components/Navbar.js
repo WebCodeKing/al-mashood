@@ -23,6 +23,7 @@ const Navbar = () => {
                 width={50}
                 height={10}
                 className=""
+                priority
               />
             </a>
             {/* Nav Links */}
@@ -31,13 +32,13 @@ const Navbar = () => {
               <Link legacyBehavior href="/about"><a className="hover:text-gray-200" href="#"><li>About</li></a></Link>
               <Link legacyBehavior href="/packages"><a><li className="hover:text-gray-200">Affiliate Companies
               </li></a></Link>
-              <li class="relative group">
-                <div class="inline-block">
-                  <a href="#" class="hover:text-gray-300">SECP</a>
-                  <ul class="absolute left-0 mt-1 w-40 bg-black text-white rounded shadow-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
-                    <Link legacyBehavior href="/secp/hajj2024"><li class="px-4 py-2 rounded hover:bg-gray-700"><a href="#">Hajj 2024</a></li></Link>
-                    <Link legacyBehavior href="/secp/hajj2025"><li class="px-4 py-2 rounded hover:bg-gray-700"><a>Hajj 2025</a></li></Link>
-                    {/* <li class="px-4 py-2 hover:bg-gray-700"><a href="#">Marketing</a></li> */}
+              <li className="relative group">
+                <div className="inline-block">
+                  <a href="#" className="hover:text-gray-300">SECP</a>
+                  <ul className="absolute left-0 mt-1 w-40 bg-black text-white rounded shadow-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
+                    <Link legacyBehavior href="/secp/hajj2024"><li className="px-4 py-2 rounded hover:bg-gray-700"><a href="#">Hajj 2024</a></li></Link>
+                    <Link legacyBehavior href="/secp/hajj2025"><li className="px-4 py-2 rounded hover:bg-gray-700"><a>Hajj 2025</a></li></Link>
+                    {/* <li className="px-4 py-2 hover:bg-gray-700"><a href="#">Marketing</a></li> */}
                   </ul>
                 </div>
               </li>
