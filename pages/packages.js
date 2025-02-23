@@ -1,4 +1,4 @@
-"use client"; // If using Next.js 13+ with App Router
+// "use client"; // If using Next.js 13+ with App Router
 import Image from "next/image";
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -17,6 +17,7 @@ const Packages = () => {
       width={1920}
       height={1080}
       className=""
+      alt="Title"
       />
          <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-60 rounded-xl">
                         <h1 className="text-[45px] font-bold z-10">About Al-Mashood Munazzam Pvt Ltd</h1>
