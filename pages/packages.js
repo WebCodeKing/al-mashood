@@ -18,6 +18,7 @@ const Packages = () => {
       height={1080}
       className=""
       alt="Title"
+      priority
       />
          <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-60 rounded-xl">
                         <h1 className="text-[45px] font-bold z-10">About Al-Mashood Munazzam Pvt Ltd</h1>

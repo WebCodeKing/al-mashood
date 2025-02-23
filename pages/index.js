@@ -21,6 +21,8 @@ export default function Home() {
             width={1920}
             height={1080}
             className=""
+            alt="Home Page Image"
+            priority
             />
                <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-40 rounded-xl mt-[150px]">
                               <h1 className="text-[45px] font-bold z-10">About Al-Mashood Munazzam Pvt Ltd</h1>
