@@ -17,19 +17,19 @@ const About = () => {
 
                     {/* Overlay Text */}
                     <div className="hidden md:block absolute text-center  md:mb-[50vh]">
-                        <h1 className="text-[45px] font-bold">About Al-Mashood Munazzam Pvt Ltd</h1>
-                        <p className="text-[22px] mt-3 max-w-[55vw] mx-auto">
+                        <h1 className="text-[45px] font-bold">Al-Mashood Munazzam Pvt Ltd</h1>
+                        <p className="text-[22px] mt-3 max-w-[50vw] mx-auto">
                             Your trusted companion in Hajj & Umrah journeys, providing seamless
                             services with dedication and experience.
                         </p>
                     </div>
                 </div>
-                <section className="py-24 relative max-w-[85%]">
+                <section className="py-24 relative md:max-w-[85%]">
                     <div className="w-full max-w-7xl px-4 md:px-5 lg:px-5 mx-auto">
                         <div className="w-full justify-start items-center gap-8 grid lg:grid-cols-2 grid-cols-1">
                             <div className="w-full flex-col justify-start lg:items-start items-center gap-10 inline-flex">
                                 <div className="w-full flex-col justify-start lg:items-start items-center gap-4 flex">
-                                    <h2 className="text-4xl font-bold font-manrope leading-normal lg:text-start text-center">Guiding Your Sacred Journey with a Legacy of Trust</h2>
+                                    <h2 className="text-[36px] font-bold font-manrope leading-normal lg:text-start text-center">A Tradition of Excellence in Sacred Journeys</h2>
                                     <p className="text-base font-normal leading-relaxed lg:text-start text-center">Founded in 2024, Al-Mashood Munazzam Pvt Ltd is a dynamic and growing group of 31 Hajj companies, dedicated to offering the highest standards of service for Hajj and Umrah pilgrims. As an IATA Accredited agent, a member of the Travel Agents Association of Pakistan (TAAP), and registered with the Ministry of Religious Affairs, we are committed to making your pilgrimage journey as smooth, comfortable, and spiritually enriching as possible.
 
                                         While we are a young company, our extensive partnerships with trusted Hajj and Umrah operators in Saudi Arabia enable us to provide pilgrims with an unparalleled experience. We bring together the expertise and resources of 31 leading companies in the industry, offering a variety of Hajj & Umrah packages to meet the diverse needs of every pilgrim.</p>
@@ -42,7 +42,7 @@ const About = () => {
                         </div>
                     </div>
                 </section>
-                <section className="py-24 relative max-w-[85%]">
+                <section className="py-24 relative md:max-w-[85%]">
                     <div className="w-full max-w-7xl px-4 md:px-5 lg:px-5 mx-auto">
                         <div className="w-full justify-start items-center gap-8 grid lg:grid-cols-2 grid-cols-1">
                             <img className="lg:mx-0 mx-auto h-full rounded-3xl object-cover overflow-hidden" src="/about/haram.jpg" alt="about Us image" />

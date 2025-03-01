@@ -25,13 +25,13 @@ export default function Home() {
             priority
             />
                <div className="hidden md:block absolute text-center text-white md:mb-[50vh] bg-black p-[25px] bg-opacity-40 rounded-xl mt-[150px]">
-                              <h1 className="text-[45px] font-bold z-10">About Al-Mashood Munazzam Pvt Ltd</h1>
-                              <p className="text-[22px] mt-3 max-w-[55vw] mx-auto">
+                              <h1 className="text-[45px] font-bold z-10">Al-Mashood Munazzam Pvt Ltd</h1>
+                              <p className="text-[22px] mt-3 max-w-[50vw] mx-auto">
                               We ensure a seamless, comfortable, and spiritually fulfilling journey with expert guidance and premium services.
                               </p>
                           </div>
                           </div>
-      <div className="flex justify-center mt-16 max-w-[85%] rounded-3xl">
+      <div className="flex justify-center mt-16 md:max-w-[85%] rounded-3xl">
         <section className="bg-white dark:bg-gray-900 bg-gray bg-opacity-0">
           <div className="grid justify-items-center max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
             <div className="mr-auto place-self-center lg:col-span-7">
@@ -51,7 +51,7 @@ export default function Home() {
           </div>
         </section>
       </div>
-      <section className="py-24 relative max-w-[85%]">
+      <section className="py-24 relative md:max-w-[85%]">
         <div className="w-full max-w-7xl px-4 md:px-5 lg:px-5 mx-auto">
             <div className="w-full justify-start items-center gap-8 grid lg:grid-cols-2 grid-cols-1">
                 <div className="w-full flex-col justify-start lg:items-start items-center gap-10 inline-flex">
@@ -68,11 +68,11 @@ export default function Home() {
         </div>
     </section>
                                             
-      <div className="flex-col space-y-16 justify-items-center max-w-[85%] my-16">
+      <div className="flex-col space-y-16 justify-items-center mx-auto w-[90%] md:max-w-[85%] my-16">
         <div className="sm:flex sm:flex-wrap md:flex md:flex-row lg:flex lg:flex-row lg:flex-nowrap xl:flex xl:flex-row xl:flex-nowrap 2xl:flex 2xl:flex-row 2xl:flex-nowrap justify-items-center md:gap-x-16 justify-center">
         <div  className="mb-16 max-w-sm rounded-lg shadow-lg dark:border-gray-700">
           <a href="#">
-            <img className="rounded-t-lg w-[80vw] h-[35.5vh]" src="/homepage/cards/Hajj-&-Umrah.jpg" alt="" />
+            <img className="rounded-t-lg w-[100vw] h-[35.5vh]" src="/homepage/cards/Hajj-&-Umrah.jpg" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
@@ -90,7 +90,7 @@ export default function Home() {
         </div>
         <div  className="mb-16 max-w-sm rounded-lg shadow-lg dark:border-gray-700">
           <a href="#">
-            <img className="rounded-t-lg w-[80vw] h-[35.5vh]" src="/homepage/cards/AirLine .webp" alt="" />
+            <img className="rounded-t-lg w-[100vw] h-[35.5vh]" src="/homepage/cards/AirLine .webp" alt="" />
           </a>
           <div className="p-5">
             <a href="#">
@@ -107,7 +107,7 @@ export default function Home() {
         </div>
         <div  className="mb-16 max-w-sm rounded-lg shadow-lg dark:border-gray-700">
           <a href="#">
-            <img className="rounded-t-lg w-[80vw] h-[35.5vh]" src="/homepage/cards/Buses.webp" alt="" />
+            <img className="rounded-t-lg w-[100vw] h-[35.5vh]" src="/homepage/cards/Buses.webp" alt="" />
           </a>
           <div className="p-5">
             <a href="#">

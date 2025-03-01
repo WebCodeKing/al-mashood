@@ -1,0 +1,396 @@
+import React, { useEffect } from 'react'
+import 'flowbite';
+
+const faq = () => {
+    useEffect(() => {
+        // Just import Flowbite; no need for module.init()
+        import("flowbite");
+      }, []);
+  return (
+    <>
+    <div className='flex justify-center justify-items-center'>
+<div className='w-[90%] md:w-[75%] my-[150px]' id="accordion-collapse" data-accordion="collapse">
+  <h2 id="accordion-collapse-heading-1">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 rounded-t-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-1" aria-expanded="true" aria-controls="accordion-collapse-body-1">
+      <span>1. What is Hajj?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-1" class="hidden" aria-labelledby="accordion-collapse-heading-1">
+    <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700 dark:bg-gray-900">
+      <p class="mb-2 text-gray-500 dark:text-gray-400">Hajj is the pilgrimage to the holy city of Mecca in Saudi Arabia, which is an obligatory religious duty for Muslims to perform at least once in their lifetime if they are able to do so. It is one of the <span className='font-bold'>Five</span> Pillars of Islam.</p>
+      {/* <p class="text-gray-500 dark:text-gray-400">Check out this guide to learn how to <a href="/docs/getting-started/introduction/" class="text-blue-600 dark:text-blue-500 hover:underline">get started</a> and start developing websites even faster with components on top of Tailwind CSS.</p> */}
+    </div>
+  </div>
+  <h2 id="accordion-collapse-heading-2">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-2" aria-expanded="false" aria-controls="accordion-collapse-body-2">
+      <span>2. When does Hajj take place?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-2" class="hidden" aria-labelledby="accordion-collapse-heading-2">
+    <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700">
+      <p class="mb-2 text-gray-500 dark:text-gray-400">Scheduled in <span className='font-bold'>Dhul-Hijjah</span>, the twelfth and final month of the Islamic lunar calendar, it occurs between the <span className='font-bold'>eighth</span> and <span className='font-bold'>thirteenth days</span> of the month.</p>
+      {/* <p class="text-gray-500 dark:text-gray-400">Check out the <a href="https://flowbite.com/figma/" class="text-blue-600 dark:text-blue-500 hover:underline">Figma design system</a> based on the utility classes from Tailwind CSS and components from Flowbite.</p> */}
+    </div>
+  </div>
+  <h2 id="accordion-collapse-heading-3">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-3" aria-expanded="false" aria-controls="accordion-collapse-body-3">
+      <span>3. What are the rituals of Hajj?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-3" class="hidden" aria-labelledby="accordion-collapse-heading-3">
+    <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+    <div id="elementor-tab-content-1473" 
+     className="text-gray-500 dark:text-gray-400 space-y-8 elementor-tab-content elementor-clearfix elementor-active" 
+     data-tab="3" 
+     role="region" 
+     aria-labelledby="elementor-tab-title-1473">
+  
+  <p><strong>Ihram:</strong> Intent and Ihram mark the initial rites of Hajj, signifying the pure intention and sacred state of the pilgrim. This is achieved by entering Ihram, a pilgrim’s consecrated state, upon crossing the outer boundaries of Mecca, known as <strong>Miqat</strong>.</p>
+
+  <p>Hujjaj wear simple attire: men wear two unstitched white cloths, while women wear loose-fitting modest clothing. Additionally, they must follow specific rules, including maintaining patience and refraining from sexual activity.</p>
+
+  <p><strong>Tawaf:</strong> Hujjaj then perform Tawaf, meaning circling the Kaaba, the cube-shaped structure in the center of Masjid al-Haram, <strong>seven times</strong> counterclockwise.</p>
+
+  <p><strong>Sa’i:</strong> Sa’i refers to walking or running between the Safa and Marwa hills, commemorating Hazrat Hajra’s (A.S.) search for water for her son, Hazrat Ismail (A.S.).</p>
+
+  <h3><strong>Mina Arrival:</strong></h3>
+  <p>Then, Hujjaj travel to Mina, a tent city located just outside Mecca, either by foot along pilgrim paths or by bus for the <strong>8km</strong> journey. They spend the day in Mina and depart the following morning at dawn.</p>
+
+  <h3><strong>A Day at Mount Arafat (Wuquf)</strong></h3>
+  <p>On the Day of Arafat, pilgrims travel from Mina to Mount Mercy (<em>Jabal ar-Rahmah</em>), where they spend the day in reverent prayer. This day, known as <strong>wuquf</strong>, is a significant moment in the Islamic calendar.</p>
+
+  <h3><strong>Heading to Muzdalifah:</strong></h3>
+  <p>Following sunset, Hujjaj journey to Muzdalifah, where they spend the night under the open sky. Here, they also collect 49 pebbles for the rites of the next day, departing shortly before sunrise.</p>
+
+  <h3><strong>Rami & Nahr</strong></h3>
+  <p>After leaving Muzdalifah, Hujjaj return to Mina before dawn to perform the first <strong>rami</strong>, symbolically stoning the devil by throwing <strong>seven</strong> pebbles at the largest of three columns known as <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <p>This is based on the tradition of Hazrat Ibrahim (A.S.), who saw in a dream that he was sacrificing his son Hazrat Ismail (A.S.) as a test of faith. At this spot in Mina, the devil appeared to discourage Hazrat Ibrahim (A.S.), but he drove him away by throwing stones.</p>
+
+  <p>Pilgrims also perform the sacrifice known as Nahr, where either a camel or lamb is sacrificed. Pilgrims have the option to either purchase sacrifice coupons/vouchers or perform the sacrifice themselves.</p>
+
+  <h3><strong>Continuation of Rami</strong></h3>
+  <p>Over the next two days, pilgrims continue the ritual of throwing stones at the three pillars in <strong>Mina</strong>. They pelt each pillar with seven pebbles, starting with <strong>Jamarat al-Ula</strong>, then <strong>Jamarat al-Wusta</strong>, and finally <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <h3><strong>Halq (Shaving of Head)</strong></h3>
+  <p>Halq, or the shaving of the head, is a ritual performed by male Hujjaj. It involves completely shaving the head or cutting the hair very short as a symbol of purification and humility before God. Women also participate in this act by cutting a small portion of their hair.</p>
+
+  <h3><strong>Tawaf al-Wida:</strong></h3>
+  <p>The Farewell Tawaf is a mandatory ritual performed by pilgrims before leaving Mecca at the end of their Hajj. It involves circling the Kaaba seven times in a counterclockwise direction as a way to bid farewell to the sacred site.</p>
+
+</div>
+
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p> */}
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+      <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+        <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+        <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+      </ul> */}
+    </div>
+  </div>
+  <h2 id="accordion-collapse-heading-4">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-4" aria-expanded="false" aria-controls="accordion-collapse-body-4">
+      <span>4. Who is obligated to perform Hajj?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-4" class="hidden" aria-labelledby="accordion-collapse-heading-3">
+    <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+    <div 
+  id="elementor-tab-content-1474" 
+  className="elementor-tab-content elementor-clearfix elementor-active space-y-4 text-gray-500 dark:text-gray-400" 
+  data-tab="4" 
+  role="region" 
+  aria-labelledby="elementor-tab-title-1474"
+>
+  <p>
+    According to the Quran and Hadith, Hajj is obligatory for adult Muslims who are physically and financially able to undertake the journey. 
+    The Quran states in Surah Al Imran (3:97):
+  </p>
+
+  <blockquote className="border-l-4 border-gray-300 pl-4 italic">
+    “And Hajj to the House is a duty that mankind owes to Allah, for those who are able to undertake the journey.”
+    <cite className="block text-sm text-gray-400">— Surah Al Imran (3:97)</cite>
+  </blockquote>
+
+  <p>This verse indicates that Hajj is mandatory for those who have the means to perform it.</p>
+
+  <p>The Hadith about the five pillars of Islam can be found in Sahih Bukhari, Book 2:</p>
+
+  <blockquote className="border-l-4 border-gray-300 pl-4 italic">
+    Narrated Ibn ‘Umar: Allah’s Messenger (ﷺ) said:
+    <br />Islam is based on (the following) five (principles):
+  </blockquote>
+
+  <ol className="list-decimal list-inside space-y-2">
+    <li>To testify that none has the right to be worshipped but Allah and Muhammad is Allah’s Messenger (ﷺ).</li>
+    <li>To offer the (compulsory congregational) prayers dutifully and perfectly.</li>
+    <li>To pay Zakat (i.e. obligatory charity).</li>
+    <li>To perform Hajj (i.e. Pilgrimage to Mecca).</li>
+    <li>To observe fast during the month of Ramadan.</li>
+  </ol>
+</div>
+
+
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p> */}
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+      <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+        <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+        <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+      </ul> */}
+    </div>
+  </div>
+  <h2 id="accordion-collapse-heading-3">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-3" aria-expanded="false" aria-controls="accordion-collapse-body-3">
+      <span>3. What are the rituals of Hajj?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-3" class="hidden" aria-labelledby="accordion-collapse-heading-3">
+    <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+    <div id="elementor-tab-content-1473" 
+     className="space-y-8 elementor-tab-content elementor-clearfix elementor-active" 
+     data-tab="3" 
+     role="region" 
+     aria-labelledby="elementor-tab-title-1473">
+  
+  <p><strong>Ihram:</strong> Intent and Ihram mark the initial rites of Hajj, signifying the pure intention and sacred state of the pilgrim. This is achieved by entering Ihram, a pilgrim’s consecrated state, upon crossing the outer boundaries of Mecca, known as <strong>Miqat</strong>.</p>
+
+  <p>Hujjaj wear simple attire: men wear two unstitched white cloths, while women wear loose-fitting modest clothing. Additionally, they must follow specific rules, including maintaining patience and refraining from sexual activity.</p>
+
+  <p><strong>Tawaf:</strong> Hujjaj then perform Tawaf, meaning circling the Kaaba, the cube-shaped structure in the center of Masjid al-Haram, <strong>seven times</strong> counterclockwise.</p>
+
+  <p><strong>Sa’i:</strong> Sa’i refers to walking or running between the Safa and Marwa hills, commemorating Hazrat Hajra’s (A.S.) search for water for her son, Hazrat Ismail (A.S.).</p>
+
+  <h3><strong>Mina Arrival:</strong></h3>
+  <p>Then, Hujjaj travel to Mina, a tent city located just outside Mecca, either by foot along pilgrim paths or by bus for the <strong>8km</strong> journey. They spend the day in Mina and depart the following morning at dawn.</p>
+
+  <h3><strong>A Day at Mount Arafat (Wuquf)</strong></h3>
+  <p>On the Day of Arafat, pilgrims travel from Mina to Mount Mercy (<em>Jabal ar-Rahmah</em>), where they spend the day in reverent prayer. This day, known as <strong>wuquf</strong>, is a significant moment in the Islamic calendar.</p>
+
+  <h3><strong>Heading to Muzdalifah:</strong></h3>
+  <p>Following sunset, Hujjaj journey to Muzdalifah, where they spend the night under the open sky. Here, they also collect 49 pebbles for the rites of the next day, departing shortly before sunrise.</p>
+
+  <h3><strong>Rami & Nahr</strong></h3>
+  <p>After leaving Muzdalifah, Hujjaj return to Mina before dawn to perform the first <strong>rami</strong>, symbolically stoning the devil by throwing <strong>seven</strong> pebbles at the largest of three columns known as <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <p>This is based on the tradition of Hazrat Ibrahim (A.S.), who saw in a dream that he was sacrificing his son Hazrat Ismail (A.S.) as a test of faith. At this spot in Mina, the devil appeared to discourage Hazrat Ibrahim (A.S.), but he drove him away by throwing stones.</p>
+
+  <p>Pilgrims also perform the sacrifice known as Nahr, where either a camel or lamb is sacrificed. Pilgrims have the option to either purchase sacrifice coupons/vouchers or perform the sacrifice themselves.</p>
+
+  <h3><strong>Continuation of Rami</strong></h3>
+  <p>Over the next two days, pilgrims continue the ritual of throwing stones at the three pillars in <strong>Mina</strong>. They pelt each pillar with seven pebbles, starting with <strong>Jamarat al-Ula</strong>, then <strong>Jamarat al-Wusta</strong>, and finally <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <h3><strong>Halq (Shaving of Head)</strong></h3>
+  <p>Halq, or the shaving of the head, is a ritual performed by male Hujjaj. It involves completely shaving the head or cutting the hair very short as a symbol of purification and humility before God. Women also participate in this act by cutting a small portion of their hair.</p>
+
+  <h3><strong>Tawaf al-Wida:</strong></h3>
+  <p>The Farewell Tawaf is a mandatory ritual performed by pilgrims before leaving Mecca at the end of their Hajj. It involves circling the Kaaba seven times in a counterclockwise direction as a way to bid farewell to the sacred site.</p>
+
+</div>
+
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p> */}
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+      <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+        <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+        <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+      </ul> */}
+    </div>
+  </div>
+  <h2 id="accordion-collapse-heading-3">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-3" aria-expanded="false" aria-controls="accordion-collapse-body-3">
+      <span>3. What are the rituals of Hajj?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-3" class="hidden" aria-labelledby="accordion-collapse-heading-3">
+    <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+    <div id="elementor-tab-content-1473" 
+     className="space-y-8 elementor-tab-content elementor-clearfix elementor-active" 
+     data-tab="3" 
+     role="region" 
+     aria-labelledby="elementor-tab-title-1473">
+  
+  <p><strong>Ihram:</strong> Intent and Ihram mark the initial rites of Hajj, signifying the pure intention and sacred state of the pilgrim. This is achieved by entering Ihram, a pilgrim’s consecrated state, upon crossing the outer boundaries of Mecca, known as <strong>Miqat</strong>.</p>
+
+  <p>Hujjaj wear simple attire: men wear two unstitched white cloths, while women wear loose-fitting modest clothing. Additionally, they must follow specific rules, including maintaining patience and refraining from sexual activity.</p>
+
+  <p><strong>Tawaf:</strong> Hujjaj then perform Tawaf, meaning circling the Kaaba, the cube-shaped structure in the center of Masjid al-Haram, <strong>seven times</strong> counterclockwise.</p>
+
+  <p><strong>Sa’i:</strong> Sa’i refers to walking or running between the Safa and Marwa hills, commemorating Hazrat Hajra’s (A.S.) search for water for her son, Hazrat Ismail (A.S.).</p>
+
+  <h3><strong>Mina Arrival:</strong></h3>
+  <p>Then, Hujjaj travel to Mina, a tent city located just outside Mecca, either by foot along pilgrim paths or by bus for the <strong>8km</strong> journey. They spend the day in Mina and depart the following morning at dawn.</p>
+
+  <h3><strong>A Day at Mount Arafat (Wuquf)</strong></h3>
+  <p>On the Day of Arafat, pilgrims travel from Mina to Mount Mercy (<em>Jabal ar-Rahmah</em>), where they spend the day in reverent prayer. This day, known as <strong>wuquf</strong>, is a significant moment in the Islamic calendar.</p>
+
+  <h3><strong>Heading to Muzdalifah:</strong></h3>
+  <p>Following sunset, Hujjaj journey to Muzdalifah, where they spend the night under the open sky. Here, they also collect 49 pebbles for the rites of the next day, departing shortly before sunrise.</p>
+
+  <h3><strong>Rami & Nahr</strong></h3>
+  <p>After leaving Muzdalifah, Hujjaj return to Mina before dawn to perform the first <strong>rami</strong>, symbolically stoning the devil by throwing <strong>seven</strong> pebbles at the largest of three columns known as <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <p>This is based on the tradition of Hazrat Ibrahim (A.S.), who saw in a dream that he was sacrificing his son Hazrat Ismail (A.S.) as a test of faith. At this spot in Mina, the devil appeared to discourage Hazrat Ibrahim (A.S.), but he drove him away by throwing stones.</p>
+
+  <p>Pilgrims also perform the sacrifice known as Nahr, where either a camel or lamb is sacrificed. Pilgrims have the option to either purchase sacrifice coupons/vouchers or perform the sacrifice themselves.</p>
+
+  <h3><strong>Continuation of Rami</strong></h3>
+  <p>Over the next two days, pilgrims continue the ritual of throwing stones at the three pillars in <strong>Mina</strong>. They pelt each pillar with seven pebbles, starting with <strong>Jamarat al-Ula</strong>, then <strong>Jamarat al-Wusta</strong>, and finally <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <h3><strong>Halq (Shaving of Head)</strong></h3>
+  <p>Halq, or the shaving of the head, is a ritual performed by male Hujjaj. It involves completely shaving the head or cutting the hair very short as a symbol of purification and humility before God. Women also participate in this act by cutting a small portion of their hair.</p>
+
+  <h3><strong>Tawaf al-Wida:</strong></h3>
+  <p>The Farewell Tawaf is a mandatory ritual performed by pilgrims before leaving Mecca at the end of their Hajj. It involves circling the Kaaba seven times in a counterclockwise direction as a way to bid farewell to the sacred site.</p>
+
+</div>
+
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p> */}
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+      <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+        <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+        <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+      </ul> */}
+    </div>
+  </div>
+  <h2 id="accordion-collapse-heading-3">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-3" aria-expanded="false" aria-controls="accordion-collapse-body-3">
+      <span>3. What are the rituals of Hajj?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-3" class="hidden" aria-labelledby="accordion-collapse-heading-3">
+    <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+    <div id="elementor-tab-content-1473" 
+     className="space-y-8 elementor-tab-content elementor-clearfix elementor-active" 
+     data-tab="3" 
+     role="region" 
+     aria-labelledby="elementor-tab-title-1473">
+  
+  <p><strong>Ihram:</strong> Intent and Ihram mark the initial rites of Hajj, signifying the pure intention and sacred state of the pilgrim. This is achieved by entering Ihram, a pilgrim’s consecrated state, upon crossing the outer boundaries of Mecca, known as <strong>Miqat</strong>.</p>
+
+  <p>Hujjaj wear simple attire: men wear two unstitched white cloths, while women wear loose-fitting modest clothing. Additionally, they must follow specific rules, including maintaining patience and refraining from sexual activity.</p>
+
+  <p><strong>Tawaf:</strong> Hujjaj then perform Tawaf, meaning circling the Kaaba, the cube-shaped structure in the center of Masjid al-Haram, <strong>seven times</strong> counterclockwise.</p>
+
+  <p><strong>Sa’i:</strong> Sa’i refers to walking or running between the Safa and Marwa hills, commemorating Hazrat Hajra’s (A.S.) search for water for her son, Hazrat Ismail (A.S.).</p>
+
+  <h3><strong>Mina Arrival:</strong></h3>
+  <p>Then, Hujjaj travel to Mina, a tent city located just outside Mecca, either by foot along pilgrim paths or by bus for the <strong>8km</strong> journey. They spend the day in Mina and depart the following morning at dawn.</p>
+
+  <h3><strong>A Day at Mount Arafat (Wuquf)</strong></h3>
+  <p>On the Day of Arafat, pilgrims travel from Mina to Mount Mercy (<em>Jabal ar-Rahmah</em>), where they spend the day in reverent prayer. This day, known as <strong>wuquf</strong>, is a significant moment in the Islamic calendar.</p>
+
+  <h3><strong>Heading to Muzdalifah:</strong></h3>
+  <p>Following sunset, Hujjaj journey to Muzdalifah, where they spend the night under the open sky. Here, they also collect 49 pebbles for the rites of the next day, departing shortly before sunrise.</p>
+
+  <h3><strong>Rami & Nahr</strong></h3>
+  <p>After leaving Muzdalifah, Hujjaj return to Mina before dawn to perform the first <strong>rami</strong>, symbolically stoning the devil by throwing <strong>seven</strong> pebbles at the largest of three columns known as <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <p>This is based on the tradition of Hazrat Ibrahim (A.S.), who saw in a dream that he was sacrificing his son Hazrat Ismail (A.S.) as a test of faith. At this spot in Mina, the devil appeared to discourage Hazrat Ibrahim (A.S.), but he drove him away by throwing stones.</p>
+
+  <p>Pilgrims also perform the sacrifice known as Nahr, where either a camel or lamb is sacrificed. Pilgrims have the option to either purchase sacrifice coupons/vouchers or perform the sacrifice themselves.</p>
+
+  <h3><strong>Continuation of Rami</strong></h3>
+  <p>Over the next two days, pilgrims continue the ritual of throwing stones at the three pillars in <strong>Mina</strong>. They pelt each pillar with seven pebbles, starting with <strong>Jamarat al-Ula</strong>, then <strong>Jamarat al-Wusta</strong>, and finally <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <h3><strong>Halq (Shaving of Head)</strong></h3>
+  <p>Halq, or the shaving of the head, is a ritual performed by male Hujjaj. It involves completely shaving the head or cutting the hair very short as a symbol of purification and humility before God. Women also participate in this act by cutting a small portion of their hair.</p>
+
+  <h3><strong>Tawaf al-Wida:</strong></h3>
+  <p>The Farewell Tawaf is a mandatory ritual performed by pilgrims before leaving Mecca at the end of their Hajj. It involves circling the Kaaba seven times in a counterclockwise direction as a way to bid farewell to the sacred site.</p>
+
+</div>
+
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p> */}
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+      <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+        <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+        <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+      </ul> */}
+    </div>
+  </div>
+  <h2 id="accordion-collapse-heading-3">
+    <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-3" aria-expanded="false" aria-controls="accordion-collapse-body-3">
+      <span>3. What are the rituals of Hajj?</span>
+      <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+      </svg>
+    </button>
+  </h2>
+  <div id="accordion-collapse-body-3" class="hidden" aria-labelledby="accordion-collapse-heading-3">
+    <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+    <div id="elementor-tab-content-1473" 
+     className="space-y-8 elementor-tab-content elementor-clearfix elementor-active" 
+     data-tab="3" 
+     role="region" 
+     aria-labelledby="elementor-tab-title-1473">
+  
+  <p><strong>Ihram:</strong> Intent and Ihram mark the initial rites of Hajj, signifying the pure intention and sacred state of the pilgrim. This is achieved by entering Ihram, a pilgrim’s consecrated state, upon crossing the outer boundaries of Mecca, known as <strong>Miqat</strong>.</p>
+
+  <p>Hujjaj wear simple attire: men wear two unstitched white cloths, while women wear loose-fitting modest clothing. Additionally, they must follow specific rules, including maintaining patience and refraining from sexual activity.</p>
+
+  <p><strong>Tawaf:</strong> Hujjaj then perform Tawaf, meaning circling the Kaaba, the cube-shaped structure in the center of Masjid al-Haram, <strong>seven times</strong> counterclockwise.</p>
+
+  <p><strong>Sa’i:</strong> Sa’i refers to walking or running between the Safa and Marwa hills, commemorating Hazrat Hajra’s (A.S.) search for water for her son, Hazrat Ismail (A.S.).</p>
+
+  <h3><strong>Mina Arrival:</strong></h3>
+  <p>Then, Hujjaj travel to Mina, a tent city located just outside Mecca, either by foot along pilgrim paths or by bus for the <strong>8km</strong> journey. They spend the day in Mina and depart the following morning at dawn.</p>
+
+  <h3><strong>A Day at Mount Arafat (Wuquf)</strong></h3>
+  <p>On the Day of Arafat, pilgrims travel from Mina to Mount Mercy (<em>Jabal ar-Rahmah</em>), where they spend the day in reverent prayer. This day, known as <strong>wuquf</strong>, is a significant moment in the Islamic calendar.</p>
+
+  <h3><strong>Heading to Muzdalifah:</strong></h3>
+  <p>Following sunset, Hujjaj journey to Muzdalifah, where they spend the night under the open sky. Here, they also collect 49 pebbles for the rites of the next day, departing shortly before sunrise.</p>
+
+  <h3><strong>Rami & Nahr</strong></h3>
+  <p>After leaving Muzdalifah, Hujjaj return to Mina before dawn to perform the first <strong>rami</strong>, symbolically stoning the devil by throwing <strong>seven</strong> pebbles at the largest of three columns known as <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <p>This is based on the tradition of Hazrat Ibrahim (A.S.), who saw in a dream that he was sacrificing his son Hazrat Ismail (A.S.) as a test of faith. At this spot in Mina, the devil appeared to discourage Hazrat Ibrahim (A.S.), but he drove him away by throwing stones.</p>
+
+  <p>Pilgrims also perform the sacrifice known as Nahr, where either a camel or lamb is sacrificed. Pilgrims have the option to either purchase sacrifice coupons/vouchers or perform the sacrifice themselves.</p>
+
+  <h3><strong>Continuation of Rami</strong></h3>
+  <p>Over the next two days, pilgrims continue the ritual of throwing stones at the three pillars in <strong>Mina</strong>. They pelt each pillar with seven pebbles, starting with <strong>Jamarat al-Ula</strong>, then <strong>Jamarat al-Wusta</strong>, and finally <strong>Jamarat al-Aqaba</strong>.</p>
+
+  <h3><strong>Halq (Shaving of Head)</strong></h3>
+  <p>Halq, or the shaving of the head, is a ritual performed by male Hujjaj. It involves completely shaving the head or cutting the hair very short as a symbol of purification and humility before God. Women also participate in this act by cutting a small portion of their hair.</p>
+
+  <h3><strong>Tawaf al-Wida:</strong></h3>
+  <p>The Farewell Tawaf is a mandatory ritual performed by pilgrims before leaving Mecca at the end of their Hajj. It involves circling the Kaaba seven times in a counterclockwise direction as a way to bid farewell to the sacred site.</p>
+
+</div>
+
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p> */}
+      {/* <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+      <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+        <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+        <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+      </ul> */}
+    </div>
+  </div>
+</div> 
+    </div>
+    </>
+  )
+}
+
+export default faq

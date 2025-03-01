@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
   return (
@@ -29,7 +29,7 @@ const Navbar = () => {
             {/* Nav Links */}
             <ul className="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12 justify-self-center">
               <Link legacyBehavior href="/"><a><li className="hover:text-gray-200">Home</li></a></Link>
-              <Link legacyBehavior href="/about"><a className="hover:text-gray-200" href="#"><li>About</li></a></Link>
+              <Link legacyBehavior href="/about"><a className="hover:text-gray-200"><li>About</li></a></Link>
               <Link legacyBehavior href="/packages"><a><li className="hover:text-gray-200">Affiliate Companies
               </li></a></Link>
               <li className="relative group">
@@ -70,7 +70,7 @@ const Navbar = () => {
             </div> */}
           </div>
           {/* Responsive navbar */}
-          <a className="xl:hidden flex mr-6 items-center" href="#">
+          {/* <a className="xl:hidden flex mr-6 items-center" href="#">
             <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 hover:text-gray-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z" />
             </svg>
@@ -78,13 +78,34 @@ const Navbar = () => {
               <span className="animate-ping absolute inline-flex h-3 w-3 rounded-full bg-pink-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-3 w-3 bg-pink-500"></span>
             </span>
-          </a>
-          <a className="navbar-burger self-center mr-12 xl:hidden" href="#">
+          </a> */}
+          <a className="navbar-burger self-center mr-12 xl:hidden" href="#" onClick={() => setIsMenuOpen(!isMenuOpen)}>
             <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 hover:text-gray-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
             </svg>
           </a>
         </nav>
+        <div className={`absolute md:hidden w-[100%] transition-all duration-300 ${isMenuOpen ? 'max-h-screen opacity-100' : 'max-h-0 opacity-0 overflow-hidden z-50'}`}>
+        <ul className="bg-gray-800 text-white space-y-4 px-5 py-4">
+          <Link legacyBehavior href="/" onClick={() => setIsMenuOpen(false)}><a><li className=' hover:text-gray-400 font-bold'>Home</li></a></Link><hr />
+          <Link legacyBehavior href="/about" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>About</li></a></Link><hr />
+          <Link legacyBehavior href="/packages" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Affiliate Companies</li></a></Link><hr />
+
+          {/* SECP Mobile Collapsible */}
+          <li>
+            <button onClick={() => setIsDropdownOpen(!isDropdownOpen)} className="w-full text-left flex justify-between items-center font-bold">
+              SECP
+              <span>{isDropdownOpen ? "▲" : "▼"}</span>
+            </button>
+            <ul className={`mt-2 ml-4 space-y-2 transition-all duration-300 ${isDropdownOpen ? 'block' : 'hidden'}`}>
+              <Link legacyBehavior href="/secp/hajj2024" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold'>Hajj 2024</li></a></Link>
+              <Link legacyBehavior href="/secp/hajj2025" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold'>Hajj 2025</li></a></Link>
+            </ul>
+          </li><hr />
+
+          <Link legacyBehavior href="/contact" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Contact</li></a></Link>
+        </ul>
+      </div>
       </section>
       {/* Follow me on twitter */}
       <div className="absolute bottom-0 right-0 mb-4 mr-4 z-10">
