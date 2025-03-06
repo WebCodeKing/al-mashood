@@ -14,7 +14,7 @@ const Navbar = () => {
       <section className="relative mx-auto">
         {/* Navbar */}
         <nav className="flex justify-between bg-gray-900 text-white w-screen">
-          <div className="px-5 xl:px-12 py-6 flex w-full items-center">
+          <div className="px-5 xl:px-12 py-3 flex w-full items-center">
             <a className="text-3xl font-bold font-heading" href="#">
               {/* Logo Here */}
               <Image
@@ -30,7 +30,9 @@ const Navbar = () => {
             <ul className="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12 justify-self-center">
               <Link legacyBehavior href="/"><a><li className="hover:text-gray-200">Home</li></a></Link>
               <Link legacyBehavior href="/about"><a className="hover:text-gray-200"><li>About</li></a></Link>
-              <Link legacyBehavior href="/packages"><a><li className="hover:text-gray-200">Affiliate Companies
+              <Link legacyBehavior href="/affiliate-companies"><a><li className="hover:text-gray-200">Affiliate Companies
+              </li></a></Link>
+              <Link legacyBehavior href="/hajj-guides"><a><li className="hover:text-gray-200">Hajj Guides
               </li></a></Link>
               <li className="relative group">
                 <div className="inline-block">
@@ -43,7 +45,8 @@ const Navbar = () => {
                 </div>
               </li>
 
-              <Link legacyBehavior href="/contact"><a><li className="hover:text-gray-200">Contact</li></a></Link>
+              <Link legacyBehavior href="/faq"><a><li className="hover:text-gray-200">FAQ</li></a></Link>
+              <Link legacyBehavior href="/contact"><a onClick={() => console.log("Navigating to Contact")}><li className="hover:text-gray-200">Contact</li></a></Link>
             </ul>
             {/* Header Icons */}
             {/* <div className="hidden xl:flex items-center space-x-5 items-center">
@@ -89,7 +92,8 @@ const Navbar = () => {
         <ul className="bg-gray-800 text-white space-y-4 px-5 py-4">
           <Link legacyBehavior href="/" onClick={() => setIsMenuOpen(false)}><a><li className=' hover:text-gray-400 font-bold'>Home</li></a></Link><hr />
           <Link legacyBehavior href="/about" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>About</li></a></Link><hr />
-          <Link legacyBehavior href="/packages" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Affiliate Companies</li></a></Link><hr />
+          <Link legacyBehavior href="/affiliate-companies" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Affiliate Companies</li></a></Link><hr />
+          <Link legacyBehavior href="/hajj-guides" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Hajj Guides</li></a></Link><hr />
 
           {/* SECP Mobile Collapsible */}
           <li>
@@ -98,11 +102,12 @@ const Navbar = () => {
               <span>{isDropdownOpen ? "▲" : "▼"}</span>
             </button>
             <ul className={`mt-2 ml-4 space-y-2 transition-all duration-300 ${isDropdownOpen ? 'block' : 'hidden'}`}>
-              <Link legacyBehavior href="/secp/hajj2024" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold'>Hajj 2024</li></a></Link>
-              <Link legacyBehavior href="/secp/hajj2025" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold'>Hajj 2025</li></a></Link>
+              <hr /><Link legacyBehavior href="/secp/hajj2024" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px]'>Hajj 2024</li></a></Link><hr />
+              <Link legacyBehavior href="/secp/hajj2025" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px]'>Hajj 2025</li></a></Link>
             </ul>
           </li><hr />
 
+          <Link legacyBehavior href="/faq" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>FAQ</li></a></Link><hr />
           <Link legacyBehavior href="/contact" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Contact</li></a></Link>
         </ul>
       </div>

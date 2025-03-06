@@ -14,11 +14,22 @@
 // };
 
 // export default nextConfig;
+// /** @type {import('next').NextConfig} */
+// const nextConfig = {
+//   reactStrictMode: true,
+//   output: "export",
+//   assetPrefix: "/", // Use a leading slash ("/") instead of "./"
+//   images: {
+//     unoptimized: true,
+//   },
+// };
+
+// export default nextConfig;
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
-  assetPrefix: "/", // Use a leading slash ("/") instead of "./"
+  trailingSlash: true, // ✅ Ensures correct page structure
   images: {
     unoptimized: true,
   },

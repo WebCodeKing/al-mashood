@@ -6,13 +6,13 @@ const Footer = () => {
     <footer className="text-gray-400 bg-gray-900 body-font ">
   <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col text-center">
     <div className="flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
-      <a className="flex title-font font-medium items-center md:justify-start justify-center text-white">
+      <a className="flex flex-col md:flex-row title-font font-medium items-center md:justify-start justify-center text-white">
          <Image
                         src="/favicon.png"
                         alt="Madina Image"
                         width={50}
                         height={10}
-                        className=""
+                        className="mb-[50px] md:mb-0 w-[100px] md:w-[50px]"
                       />
         <span className="ml-3 text-xl">Al-Mashood Munazzam Pvt Ltd.</span>
       </a>
