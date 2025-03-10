@@ -19,9 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
-/* #background{
+#background{
   background: linear-gradient(45deg, #ffd303, transparent);
-} */
+}
 #card{
   background: #0000001c;
   border: #0000001c;

@@ -1,15 +1,91 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import Image from "next/image";
 import 'flowbite';
+import { initFlowbite } from 'flowbite';
 
 const Faq = () => {
+  // useEffect(() => {
+  //   initFlowbite();
+  // }, []);
     useEffect(() => {
         // Just import Flowbite; no need for module.init()
         import("flowbite");
       }, []);
+    // useEffect(() => {
+    //   import('flowbite/dist/flowbite.min.js').then((module) => {
+    //     if (module.default) {
+    //       module.default();
+    //     }
+    //   });
+    // }, []);
+    // useEffect(() => {
+    //     console.log("hello");
+    //   // Import Flowbite and manually initialize it
+    //   import('flowbite').then(() => {
+    //     if (typeof window !== 'undefined' && window.Flowbite) {
+    //       window.Flowbite.init(); // Manually trigger initialization
+    //     }
+    //   });
+    // }, []);
+      // useEffect(() => {
+      //   const initializeFlowbite = async () => {
+      //     try {
+      //       await import("flowbite/dist/flowbite.min.js");
+    
+      //       if (typeof window !== "undefined" && window.Flowbite) {
+      //         console.log("Flowbite is ready. Waiting for user interaction...");
+      //       }
+      //     } catch (error) {
+      //       console.error("Error loading Flowbite:", error);
+      //     }
+      //   };
+    
+      //   initializeFlowbite();
+    
+      //   // Attach event listener to initialize Flowbite on user interaction
+      //   const handleUserInteraction = () => {
+      //     if (typeof window !== "undefined" && window.Flowbite) {
+      //       window.Flowbite.init();
+      //       console.log("Flowbite initialized after user interaction!");
+      //     }
+      //     document.removeEventListener("click", handleUserInteraction); // Remove listener after first use
+      //   };
+    
+      //   document.addEventListener("click", handleUserInteraction);
+        
+      //   return () => {
+      //     document.removeEventListener("click", handleUserInteraction);
+      //   };
+      // }, []);
+      // useEffect(() => {
+      //   console.log("useeffect");
+
+      //   if (typeof window !== "undefined") {
+      //     console.log("Checking if Flowbite is available...");
+    
+      //     const checkFlowbite = setInterval(() => {
+      //       if (window.Flowbite && typeof window.Flowbite.init === "function") {
+      //         console.log("✅ Flowbite found, initializing...");
+      //         window.Flowbite.init();
+      //         clearInterval(checkFlowbite); // Stop checking once initialized
+      //       } else {
+      //         console.warn("⚠️ Flowbite is still not ready. Retrying...");
+      //       }
+      //     }, 500); // Check every 500ms
+    
+      //     // Cleanup function to prevent memory leaks
+      //     return () => clearInterval(checkFlowbite);
+      //   }
+      // }, []);
+
+
+    
   return (
     <>
+    {/* <button onClick={() => window.location.reload()}>Reload Page</button> */}
+
     <div className='flex-col items-center justify-center justify-items-center'>
+     <div className='relative'>
       <Image
                   src="/FAQ/FAQ.webp"
                   width={1920}
@@ -18,7 +94,9 @@ const Faq = () => {
                   alt="Home Page Image"
                   priority
                   />
-                  <div className='w-[100%] h-[10px] bg-black'></div>
+                  <div className="absolute bottom-0 left-0 w-full h-28 bg-gradient-to-t from-white to-transparent"></div>
+                  </div>
+                  {/* <div className='w-[100%] h-[10px] bg-black'></div> */}
     <div className='w-90% md:w-[75%] h-[100px] mt-[60px] md:mt-[150px] text-center'><strong className='text-gray-500 text-[40px] md:text-[70px]'>GENERAL QUESTIONS</strong></div>
 <div className='w-[90%] md:w-[75%] my-[80px] mx-auto' id="accordion-collapse" data-accordion="collapse">
   <h2 id="accordion-collapse-heading-1">

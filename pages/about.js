@@ -23,6 +23,7 @@ const About = () => {
                             services with dedication and experience.
                         </p>
                     </div>
+                    
                 </div>
                 <section className="py-24 relative md:max-w-[85%]">
                     <div className="w-full max-w-7xl px-4 md:px-5 lg:px-5 mx-auto">

@@ -7,6 +7,7 @@ import Link from "next/link";
 
 export default function App({ Component, pageProps }) {
     return <>
+    <div className="w-[100%] overflow-hidden">
     {/* <div id="background" className="">
   <div className="relative z-10">    */}
   <Head>
@@ -17,5 +18,7 @@ export default function App({ Component, pageProps }) {
   <Footer/>
   {/* </div>
   </div> */}
+  </div>
+  
   </>
 }

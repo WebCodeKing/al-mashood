@@ -11,7 +11,7 @@ const AffiliateCompanies = () => {
   return (
     <>
       <div>
-        <div className="w-full h-auto flex items-center justify-center">
+        <div className="relative w-full h-auto flex items-center justify-center">
           <Image
             src="/packages/title.jpeg"
             width={1920}
@@ -27,6 +27,7 @@ const AffiliateCompanies = () => {
               services with dedication and experience.
             </p>
           </div>
+          <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-white to-transparent"></div>
         </div>
         <div className="max-w-6xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center gap-8 my-[120px]">
           {/* Left Side - Package Description */}
@@ -44,15 +45,15 @@ const AffiliateCompanies = () => {
             </p> */}
             <h2 className="text-3xl font-bold mb-4">Al-Mashood Munazzam Pvt Ltd</h2>
             <p>
-            Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring together 31 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim.
+              Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring together 31 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim.
             </p>
           </div>
           <img className="lg:mx-0 mx-auto w-full md:w-[40vw] md:h-[70vh] rounded-3xl object-cover overflow-hidden" src="/packages/hujjaj.jpg" alt="about Us image" />
           {/* Right Side - Image Slider */}
           {/* <div className="w-full md:w-1/2"> */}
-            {/* <h2 className="text-gray-200 text-[30px] font-bold text-center mb-6">Our Packages</h2> */}
+          {/* <h2 className="text-gray-200 text-[30px] font-bold text-center mb-6">Our Packages</h2> */}
 
-            {/* <Swiper
+          {/* <Swiper
               modules={[Navigation, Pagination, Autoplay]}
               spaceBetween={20}
               slidesPerView={1}
@@ -410,7 +411,12 @@ const AffiliateCompanies = () => {
 
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                    href="https://baitullahtours.com.pk/"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    baitullahtours.com.pk
+                  </a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
