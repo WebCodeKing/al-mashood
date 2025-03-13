@@ -45,7 +45,7 @@ const AffiliateCompanies = () => {
             </p> */}
             <h2 className="text-3xl font-bold mb-4">Al-Mashood Munazzam Pvt Ltd</h2>
             <p>
-              Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring together 31 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim.
+              Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring togetherwith{/* 31 */}&nbsp;30 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim.
             </p>
           </div>
           <img className="lg:mx-0 mx-auto w-full md:w-[40vw] md:h-[70vh] rounded-3xl object-cover overflow-hidden" src="/packages/hujjaj.jpg" alt="about Us image" />
@@ -232,7 +232,7 @@ const AffiliateCompanies = () => {
 
                 </td>
                 <td className="px-6 py-4">
-                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://alfurqaninternational.com" target="_blank" rel="noopener noreferrer">
+                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.alfurqaninternational.com" target="_blank" rel="noopener noreferrer">
                     alfurqaninternational.com
                   </a>
                 </td>
@@ -412,14 +412,14 @@ const AffiliateCompanies = () => {
                 </td>
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="https://baitullahtours.com.pk/"
+                    href="https://www.baitullahtours.com.pk/"
                     target="_blank"
                     rel="noopener noreferrer">
                     baitullahtours.com.pk
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                <a href="/packages/hajj-package/2025/6-bait-ullah-tours.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -548,7 +548,9 @@ const AffiliateCompanies = () => {
 
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.dar-ul-ateeq.com" target="_blank" rel="noopener noreferrer">
+                  dar-ul-ateeq.com
+                  </a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
@@ -1083,7 +1085,9 @@ const AffiliateCompanies = () => {
 
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.meraj.iqbalgroup.biz" target="_blank" rel="noopener noreferrer">
+                  meraj.iqbalgroup.biz
+                  </a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
@@ -1223,7 +1227,9 @@ const AffiliateCompanies = () => {
 
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="http://qafla-e-madienah.com" target="_blank" rel="noopener noreferrer">
+                  qafla-e-madienah.com
+                  </a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>

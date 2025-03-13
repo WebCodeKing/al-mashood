@@ -12,7 +12,7 @@ const HajjGuides = () => {
                     alt="Madina Image"
                     width={1920}
                     height={1080}
-                    className="h-[100vh]"
+                    className="md:h-[100vh]"
                 />
                 
                 {/* Overlay Text */}

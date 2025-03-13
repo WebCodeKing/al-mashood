@@ -4,13 +4,13 @@ import 'flowbite';
 import { initFlowbite } from 'flowbite';
 
 const Faq = () => {
-  // useEffect(() => {
-  //   initFlowbite();
-  // }, []);
-    useEffect(() => {
-        // Just import Flowbite; no need for module.init()
-        import("flowbite");
-      }, []);
+  useEffect(() => {
+    initFlowbite();
+  }, []);
+    // useEffect(() => {
+    //     // Just import Flowbite; no need for module.init()
+    //     import("flowbite");
+    //   }, []);
     // useEffect(() => {
     //   import('flowbite/dist/flowbite.min.js').then((module) => {
     //     if (module.default) {
@@ -77,7 +77,8 @@ const Faq = () => {
       //     return () => clearInterval(checkFlowbite);
       //   }
       // }, []);
-
+      
+      
 
     
   return (
@@ -251,7 +252,9 @@ const Faq = () => {
   <div id="accordion-collapse-body-5" className="hidden" aria-labelledby="accordion-collapse-heading-5">
     <div className="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
     <div id="elementor-tab-content-1475" className="tab-content space-y-4 text-gray-500 dark:text-gray-400" data-tab="5" role="region" aria-labelledby="elementor-tab-title-1475">
-        <p>Preparing for Hajj involves both logistical and spiritual preparations. <strong>Al Mashood Munazzam Pvt Ltd</strong>, with 2 years of experience, suggests the following steps:</p>
+        <p>Preparing for Hajj involves both logistical and spiritual preparations. <strong>Al Mashood Munazzam Pvt Ltd</strong>, with&nbsp;
+        {/* 2 */}
+        years of experience, suggests the following steps:</p>
 
         <p><strong>Educate Yourself:</strong> Learn about the rituals and significance of Hajj. Reading books or attending seminars can deepen your understanding.</p>
         <p><strong>Physical Preparation:</strong> Ensure you are physically fit for the journey. Consult a healthcare provider, especially if you have medical conditions.</p>

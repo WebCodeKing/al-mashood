@@ -78,7 +78,7 @@ const hajj2025 = () => {
                 //   objectFit="cover"
                 width={1920}
                 height={1080}
-                  className="rounded-lg"
+                  className="rounded-lg md:max-h-[50vh]"
                 />
                 <div className="absolute inset-0 bg-black/0 hover:bg-black/10 transition duration-300 rounded-lg"></div>
               </div>
@@ -89,7 +89,7 @@ const hajj2025 = () => {
             </div>
             </Link>
             <Link href="/SECP/2025/CTC OF INC. FORM-II.pdf" className='mx-auto'>
-        <div className="relative flex-col justify-items-center items-center max-w-3xl mx-auto p-8 border-t-4 border-indigo-500 shadow-2xl hover:shadow-3xl transition-shadow rounded-xl bg-gradient-to-r from-gray-50 to-white my-[100px] md:w-[31vw] md:min-h-[73vh] hover:border-x hover:border-b cursor-pointer">
+        <div className="relative flex-col justify-items-center items-center max-w-3xl mx-auto p-8 border-t-4 border-indigo-500 shadow-2xl hover:shadow-3xl transition-shadow rounded-xl bg-gradient-to-r from-gray-50 to-white my-[100px] md:w-[31vw] hover:border-x hover:border-b cursor-pointer">
               <div className="flex items-center gap-3 mb-4">
                 {/* Document Icon */}
                 <svg className="w-8 h-8 text-indigo-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -185,7 +185,7 @@ const hajj2025 = () => {
               {/* Next.js Optimized Image */}
               <div className=" mb-4 md:w-[15vw]">
                 <Image
-                  src="/SECP/2024/Recongniation Letter.jpg" // Replace with your image path
+                  src="/SECP/2025/form-III/form-III_page-0001.jpg" // Replace with your image path
                   alt="Document Thumbnail"
                 //   layout="fill"
                 //   objectFit="cover"

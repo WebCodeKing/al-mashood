@@ -91,24 +91,24 @@ const Navbar = () => {
         <div className={`absolute md:hidden w-[100%] transition-all duration-300 ${isMenuOpen ? 'max-h-screen opacity-100' : 'max-h-0 opacity-0 overflow-hidden z-50'}`}>
         <ul className="bg-gray-800 text-white space-y-4 px-5 py-4">
           <Link legacyBehavior href="/" onClick={() => setIsMenuOpen(false)}><a><li className=' hover:text-gray-400 font-bold'>Home</li></a></Link><hr />
-          <Link legacyBehavior href="/about" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>About</li></a></Link><hr />
-          <Link legacyBehavior href="/affiliate-companies" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Affiliate Companies</li></a></Link><hr />
-          <Link legacyBehavior href="/hajj-guides" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Hajj Guides</li></a></Link><hr />
+          <Link legacyBehavior href="/about" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>About</li></a></Link><hr />
+          <Link legacyBehavior href="/affiliate-companies" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Affiliate Companies</li></a></Link><hr />
+          <Link legacyBehavior href="/hajj-guides" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Hajj Guides</li></a></Link><hr />
 
           {/* SECP Mobile Collapsible */}
           <li>
-            <button onClick={() => setIsDropdownOpen(!isDropdownOpen)} className="w-full text-left flex justify-between items-center font-bold">
+            <button onClick={() => setIsDropdownOpen(!isDropdownOpen)} className="w-full text-left flex justify-between items-center font-bold  hover:text-gray-400">
               SECP
               <span>{isDropdownOpen ? "▲" : "▼"}</span>
             </button>
             <ul className={`mt-2 ml-4 space-y-2 transition-all duration-300 ${isDropdownOpen ? 'block' : 'hidden'}`}>
-              <hr /><Link legacyBehavior href="/secp/hajj2024" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px]'>Hajj 2024</li></a></Link><hr />
-              <Link legacyBehavior href="/secp/hajj2025" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px]'>Hajj 2025</li></a></Link>
+              <hr /><Link legacyBehavior href="/secp/hajj2024" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px] hover:text-gray-400'>Hajj 2024</li></a></Link><hr />
+              <Link legacyBehavior href="/secp/hajj2025" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px] hover:text-gray-400'>Hajj 2025</li></a></Link>
             </ul>
           </li><hr />
 
-          <Link legacyBehavior href="/faq" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>FAQ</li></a></Link><hr />
-          <Link legacyBehavior href="/contact" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold'>Contact</li></a></Link>
+          <Link legacyBehavior href="/faq" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>FAQ</li></a></Link><hr />
+          <Link legacyBehavior href="/contact" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Contact</li></a></Link>
         </ul>
       </div>
       </section>
