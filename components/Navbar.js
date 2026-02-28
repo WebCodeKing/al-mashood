@@ -30,6 +30,7 @@ const Navbar = () => {
             <ul className="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12 justify-self-center">
               <Link legacyBehavior href="/"><a><li className="hover:text-gray-200">Home</li></a></Link>
               <Link legacyBehavior href="/about"><a className="hover:text-gray-200"><li>About</li></a></Link>
+              <Link legacyBehavior href="/company-profile"><a className="hover:text-gray-200"><li>Company Profile</li></a></Link>
               <Link legacyBehavior href="/affiliate-companies"><a><li className="hover:text-gray-200">Affiliate Companies
               </li></a></Link>
               <Link legacyBehavior href="/hajj-guides"><a><li className="hover:text-gray-200">Hajj Guides
@@ -92,6 +93,7 @@ const Navbar = () => {
         <ul className="bg-gray-800 text-white space-y-4 px-5 py-4">
           <Link legacyBehavior href="/" onClick={() => setIsMenuOpen(false)}><a><li className=' hover:text-gray-400 font-bold'>Home</li></a></Link><hr />
           <Link legacyBehavior href="/about" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>About</li></a></Link><hr />
+          <Link legacyBehavior href="/company-profile" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Company Profile</li></a></Link><hr />
           <Link legacyBehavior href="/affiliate-companies" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Affiliate Companies</li></a></Link><hr />
           <Link legacyBehavior href="/hajj-guides" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Hajj Guides</li></a></Link><hr />
 
