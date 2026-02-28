@@ -61,7 +61,7 @@ const CompanyProfile = () => {
         </h3>
 
         <p className="text-gray-600 leading-relaxed">
-          To become a globally **trusted and respected Hajj service provider**, 
+          To become a globally trusted and respected Hajj service provider, 
           recognized for our integrity, organization, and commitment to facilitating 
           spiritually meaningful journeys for pilgrims around the world.
         </p>
