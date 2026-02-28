@@ -197,8 +197,9 @@ const CompanyProfile = () => {
       <div className="bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
         <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">Accommodation</h3>
         <p className="text-gray-600 text-sm leading-relaxed">
-          Comfortable and varied accommodation options across partner companies, 
-          matching A/B/C/D categories.
+          Comfortable and varied accommodation options across partner companies.
+          {/* , 
+          matching A/B/C/D categories. */}
         </p>
       </div>
 
