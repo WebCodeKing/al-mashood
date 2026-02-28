@@ -16,7 +16,7 @@ export default function App({ Component, pageProps }) {
     <link rel="icon" href="/favicon.png"></link>
   </Head>
   <Navbar/>
-  <Component {...pageProps} />;
+  <Component {...pageProps} />
   <Footer/>
   {/* </div>
   </div> */}
