@@ -47,7 +47,7 @@ const Navbar = () => {
 
               <Link legacyBehavior href="/faq"><a><li className="hover:text-gray-200">FAQ</li></a></Link>
               <Link legacyBehavior href="/contact"><a onClick={() => console.log("Navigating to Contact")}><li className="hover:text-gray-200">Contact</li></a></Link>
-            </ul>
+            </ul>   
             {/* Header Icons */}
             {/* <div className="hidden xl:flex items-center space-x-5 items-center">
               <a className="hover:text-gray-200" href="#">
