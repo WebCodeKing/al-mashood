@@ -92,7 +92,7 @@ const Footer = () => {
   </div>
   <div className="bg-gray-800 bg-opacity-75">
     <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row justify-center">
-      <p className="text-gray-400 text-sm text-center sm:text-left">© 2025 Al-Mashood Munazzam Pvt Ltd. All Rights Reserved.
+      <p className="text-gray-400 text-sm text-center sm:text-left">© 2024–{new Date().getFullYear()} Al-Mashood Munazzam Pvt Ltd. All Rights Reserved.
         <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="hidden text-gray-500 ml-1" target="_blank">@knyttneve</a>
       </p>
       {/* <span className=" hidden inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
