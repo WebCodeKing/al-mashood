@@ -1,5 +1,14 @@
 import React from 'react'
 import { Building2, ShieldCheck, Handshake, Headphones } from "lucide-react";
+import Image from "next/image";
+import {
+  Briefcase,
+  Globe,
+  FileText,
+  Building,
+  Bus,
+  Users
+} from "lucide-react";
 import Link from 'next/link';
 
 const CompanyProfile = () => {
@@ -140,7 +149,7 @@ const CompanyProfile = () => {
         </h3>
 
         <ul className="space-y-4 text-gray-600">
-          <li>• Organized network of 31 Hajj companies</li>
+          <li>• Organized network of 33 Hajj companies</li>
           <li>• Structured operational management</li>
           <li>• Commitment to Shariah-compliant services</li>
           <li>• Transparent and accountable processes</li>
@@ -168,17 +177,20 @@ const CompanyProfile = () => {
       highly reliable.
     </p>
 
-    <div className="grid md:grid-cols-3 gap-8 text-center">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 text-center">
 
-      <div className="bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
-        <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">Hajj Packages</h3>
+      <div className="flex flex-col items-center bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+        <Briefcase className="mb-5 w-8 h-8 text-[#ce9733]" />
+        <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">
+          Hajj Packages</h3>
         <p className="text-gray-600 text-sm leading-relaxed">
           Diverse Hajj packages managed collectively by our network, covering all categories 
           for a smooth pilgrimage experience.
         </p>
       </div>
 
-      <div className="bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+      <div className="flex flex-col items-center bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+        <Globe className="mb-5 w-8 h-8 text-[#ce9733]" />
         <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">Umrah Services</h3>
         <p className="text-gray-600 text-sm leading-relaxed">
           Coordinated Umrah arrangements across all partner companies, tailored to each 
@@ -186,7 +198,8 @@ const CompanyProfile = () => {
         </p>
       </div>
 
-      <div className="bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+      <div className="flex flex-col items-center bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+        <FileText className="mb-5 w-8 h-8 text-[#ce9733]" />
         <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">Visa Assistance</h3>
         <p className="text-gray-600 text-sm leading-relaxed">
           Smooth visa processing support through our network, ensuring fast and hassle-free 
@@ -194,7 +207,8 @@ const CompanyProfile = () => {
         </p>
       </div>
 
-      <div className="bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+      <div className="flex flex-col items-center bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+        <Building className="mb-5 w-8 h-8 text-[#ce9733]" />
         <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">Accommodation</h3>
         <p className="text-gray-600 text-sm leading-relaxed">
           Comfortable and varied accommodation options across partner companies.
@@ -203,7 +217,8 @@ const CompanyProfile = () => {
         </p>
       </div>
 
-      <div className="bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+      <div className="flex flex-col items-center bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+        <Bus className="mb-5 w-8 h-8 text-[#ce9733]" />
         <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">Transport</h3>
         <p className="text-gray-600 text-sm leading-relaxed">
           Organized transport services coordinated among the companies for a seamless 
@@ -211,7 +226,8 @@ const CompanyProfile = () => {
         </p>
       </div>
 
-      <div className="bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+      <div className="flex flex-col items-center bg-gray-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300">
+        <Users className="mb-5 w-8 h-8 text-[#ce9733]" />
         <h3 className="text-xl font-semibold mb-3 text-[#ce9733]">Guidance Support</h3>
         <p className="text-gray-600 text-sm leading-relaxed">
           Dedicated guidance and support at every step, leveraging the collective 
@@ -368,7 +384,7 @@ const CompanyProfile = () => {
       Why Choose Us
     </h2>
 
-    <div className="grid md:grid-cols-4 gap-8">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
 
       {/* Card 1 */}
       <div className="bg-white p-8 rounded-2xl shadow-sm hover:shadow-lg transition duration-300 text-center">
@@ -417,7 +433,7 @@ const CompanyProfile = () => {
     </div>
   </div>
 </section>
-<section className="py-16 bg-[#ce9733] text-white text-center">
+<section className="py-16 bg-gradient-to-r from-[#ce9733] to-[#8a641f] text-white text-center">
   <div className="max-w-4xl mx-auto px-6">
     <h2 className="text-3xl font-bold mb-6">
       Begin Your Spiritual Journey With Confidence
@@ -429,6 +445,36 @@ const CompanyProfile = () => {
     </button>
   </div>
 </section>
+{/* <section className="py-24 bg-gray-50">
+  <div className="max-w-6xl mx-auto px-6">
+    
+    <h2 className="text-3xl md:text-4xl font-bold text-center mb-16 text-gray-800">
+      Why Choose Us
+    </h2>
+
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 items-stretch"> */}
+
+      {/* Card */}
+      {/* <div className="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all duration-300 text-center flex flex-col">
+        
+        <div className="w-16 h-16 mx-auto mb-6 flex items-center justify-center bg-[#ce9733]/10 rounded-full">
+          <Building2 className="text-[#ce9733]" size={32} />
+        </div>
+
+        <h3 className="font-semibold text-lg mb-3">
+          33 Company Network
+        </h3>
+
+        <p className="text-gray-600 text-sm leading-relaxed flex-grow">
+          A strong and well-structured group of Hajj companies operating across Pakistan.
+        </p>
+      </div> */}
+
+      {/* Repeat same structure for other cards */}
+
+    {/* </div>
+  </div>
+</section> */}
     </>
   )
 }
