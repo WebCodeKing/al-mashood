@@ -179,7 +179,7 @@ const hajj2025 = () => {
                 <svg className="w-8 h-8 text-indigo-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6M6 8h12M4 4v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6H6c-1.1 0-2 .9-2 2z"/>
                 </svg>
-                <h2 className="text-2xl font-bold text-gray-800">Recongniation Letter</h2>
+                <h2 className="text-2xl font-bold text-gray-800">Form III</h2>
               </div>
         
               {/* Next.js Optimized Image */}
