@@ -31,9 +31,9 @@ const About = () => {
                             <div className="w-full flex-col justify-start lg:items-start items-center gap-10 inline-flex">
                                 <div className="w-full flex-col justify-start lg:items-start items-center gap-4 flex">
                                     <h2 className="text-[36px] font-bold font-manrope leading-normal lg:text-start text-center">A Tradition of Excellence in Sacred Journeys</h2>
-                                    <p className="text-base font-normal leading-relaxed text-justify">Founded in 2024, Al-Mashood Munazzam Pvt Ltd is a dynamic and growing group of 31 Hajj companies, dedicated to offering the highest standards of service for Hajj and Umrah pilgrims. As an IATA Accredited agent, a member of the Travel Agents Association of Pakistan (TAAP), and registered with the Ministry of Religious Affairs, we are committed to making your pilgrimage journey as smooth, comfortable, and spiritually enriching as possible.
+                                    <p className="text-base font-normal leading-relaxed text-justify">Founded in 2024, Al-Mashood Munazzam Pvt Ltd is a dynamic and growing group of 33 Hajj companies, dedicated to offering the highest standards of service for Hajj and Umrah pilgrims. As an IATA Accredited agent, a member of the Travel Agents Association of Pakistan (TAAP), and registered with the Ministry of Religious Affairs, we are committed to making your pilgrimage journey as smooth, comfortable, and spiritually enriching as possible.
 
-                                        While we are a young company, our extensive partnerships with trusted Hajj and Umrah operators in Saudi Arabia enable us to provide pilgrims with an unparalleled experience. We bring together the expertise and resources of 31 leading companies in the industry, offering a variety of Hajj & Umrah packages to meet the diverse needs of every pilgrim.</p>
+                                        While we are a young company, our extensive partnerships with trusted Hajj and Umrah operators in Saudi Arabia enable us to provide pilgrims with an unparalleled experience. We bring together the expertise and resources of 33 leading companies in the industry, offering a variety of Hajj & Umrah packages to meet the diverse needs of every pilgrim.</p>
                                 </div>
                                 {/* <button className="sm:w-fit w-full px-3.5 py-2 bg-indigo-600 hover:bg-indigo-800 transition-all duration-700 ease-in-out rounded-lg shadow-[0px_1px_2px_0px_rgba(16,_24,_40,_0.05)] justify-center items-center flex">
                                     <span className="px-1.5 text-white text-sm font-medium leading-6">Get Started</span>
@@ -52,7 +52,7 @@ const About = () => {
                                     <h2 className="text-4xl font-bold font-manrope leading-normal lg:text-start text-center">Guiding Your Sacred Journey with a Legacy of Trust</h2>
                                     <p className="text-base font-normal text-justify"><h1 className="font-bold text-[25px]">Why Choose Us?</h1>
                                         <br />
-                                        <p>A Group of Trusted Hajj Companies: Al-Mashood Munazzam Pvt Ltd is a collaboration of 31 reputable Hajj companies, pooling resources and expertise to ensure the best services for pilgrims.
+                                        <p>A Group of Trusted Hajj Companies: Al-Mashood Munazzam Pvt Ltd is a collaboration of 33 reputable Hajj companies, pooling resources and expertise to ensure the best services for pilgrims.
                                         </p>
                                         <br />
                                         <p>Fully Accredited & Registered: As an IATA Accredited agent, and registered with the Ministry of Religious Affairs, we adhere to the highest standards of professionalism and trust.
@@ -101,7 +101,7 @@ const About = () => {
                                         </p><br />
                                         <p>Nationwide Transport Solutions: We offer reliable transportation across Pakistan to make your travel as hassle-free as possible.
                                         </p><br />
-                                        <p>At Al-Mashood Munazzam Pvt Ltd, we are deeply committed to delivering exceptional services while you embark on your sacred pilgrimage. With the support of our vast network of 31 companies, we ensure every step of your journey is handled with care, allowing you to focus solely on the spiritual journey of Hajj & Umrah.</p><br />
+                                        <p>At Al-Mashood Munazzam Pvt Ltd, we are deeply committed to delivering exceptional services while you embark on your sacred pilgrimage. With the support of our vast network of 33 companies, we ensure every step of your journey is handled with care, allowing you to focus solely on the spiritual journey of Hajj & Umrah.</p><br />
                                         </p>
                                 </div>
                                 {/* <button className="sm:w-fit w-full px-3.5 py-2 bg-indigo-600 hover:bg-indigo-800 transition-all duration-700 ease-in-out rounded-lg shadow-[0px_1px_2px_0px_rgba(16,_24,_40,_0.05)] justify-center items-center flex">

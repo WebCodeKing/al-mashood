@@ -239,12 +239,18 @@ const CompanyProfile = () => {
 
     {/* Optional Link to Full Services Page */}
     <div className="text-center mt-12">
-      <a 
+      <Link id="company" legacyBehavior href="/affiliate-companies#Company"><a>
+        {/* <li className="hover:text-gray-200">Affiliate Companies
+              </li> */}
+        <li className="inline-block bg-[#ce9733] text-white font-semibold px-6 py-3 rounded-lg hover:bg-[#b17c29] transition duration-300">Explore Full Services
+              </li>
+              </a></Link>
+      {/* <a 
         href="/services" 
         className="inline-block bg-[#ce9733] text-white font-semibold px-6 py-3 rounded-lg hover:bg-[#b17c29] transition duration-300"
       >
         Explore Full Services
-      </a>
+      </a> */}
     </div>
 
   </div>
@@ -440,7 +446,7 @@ const CompanyProfile = () => {
     </h2>
 
     <button className="bg-white text-[#ce9733]  font-semibold px-6 py-3 rounded-lg">
-     <ul> <Link legacyBehavior href="/contact"><a onClick={() => console.log("Navigating to Contact")}><li className="hover:text-gray-200">Contact Us</li></a></Link></ul>
+     <ul> <Link legacyBehavior href="/contact"><a onClick={() => console.log("Navigating to Contact")}><li className="hover:text-[#b17c29]">Contact Us</li></a></Link></ul>
       {/* Contact Us */}
     </button>
   </div>

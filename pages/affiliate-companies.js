@@ -45,7 +45,7 @@ const AffiliateCompanies = () => {
             </p> */}
             <h2 className="text-3xl font-bold mb-4">Al-Mashood Munazzam Pvt Ltd</h2>
             <p>
-              Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring togetherwith{/* 31 */}&nbsp;30 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim.
+              Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring togetherwith{/* 31 */}&nbsp;33 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim.
             </p>
           </div>
           <img className="lg:mx-0 mx-auto w-full md:w-[40vw] md:h-[70vh] rounded-3xl object-cover overflow-hidden" src="/packages/hujjaj.jpg" alt="about Us image" />
@@ -102,7 +102,7 @@ const AffiliateCompanies = () => {
           {/* </div> */}
         </div>
       </div>
-      <div className="flex flex-col items-center mb-[150px] mt-[120px]">
+      <div id="Company" className="flex flex-col items-center mb-[150px] mt-[120px]">
 
 
         <div className="relative overflow-x-auto shadow-md sm:rounded-lg max-w-[85%]">
@@ -1483,6 +1483,136 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py- whitespace-nowrap">
                   No. 4, Taimur Chambers, Fazal-E-Haq
                   <br /> Road, Blue Area, Islamabad
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  31
+                </th>
+                <td className="px-6 py-4">
+                  4198
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Allamah Banori Hajj And Umrah Services (Pvt) Ltd.
+                </td>
+                <td className="px-6 py-4 font-bold">
+                  176
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Muhammad Rafique Shaikh
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-8229787
+                </td>
+                <td className="px-6 py-4">
+                  mrshaikh.ceo@gmai.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  021-34858869
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No. M-2, Mezzanine Floor, Garden<br /> 
+                  View, Plot No. 93-94, Stadium Road,<br />
+                   KMCH Society, Karachi-75300.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  32
+                </th>
+                <td className="px-6 py-4">
+                  4131
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Saleem Akhtar Travel & Tours (Pvt) Ltd.
+                </td>
+                <td className="px-6 py-4 font-bold">
+                  147
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Saleem Akhtar
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0311-3322564
+                </td>
+                <td className="px-6 py-4">
+                  satravel.ticket66@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0222-637485
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No. 178/A, Jail Road, Near Gulab<br />
+                   Pan House, Hirabad, Hyderabad
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  33
+                </th>
+                <td className="px-6 py-4">
+                  4105
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Labbaik-E-Haram Travel & Tours (Pvt) Ltd.
+                </td>
+                <td className="px-6 py-4 font-bold">
+                  90
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Sheikh khalil Ur Rehman
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0345-2211433
+                </td>
+                <td className="px-6 py-4">
+                  moizshaikh2050@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0213-2727351  
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Shop No. 20 Frere Business Centre, Frere<br />
+                   Road, Shahrah-e-Liaquat, Karachi.
 
                 </td>
                 <td className="px-6 py-4">
