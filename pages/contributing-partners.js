@@ -7,7 +7,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
-const AffiliateCompanies = () => {
+const ContributingPartners = () => {
   return (
     <>
       <div>
@@ -124,9 +124,9 @@ const AffiliateCompanies = () => {
                 <th scope="col" className="px-6 py-3">
                   Name of HGO
                 </th>
-                <th scope="col" className="px-6 py-3">
+                {/* <th scope="col" className="px-6 py-3">
                   Quota
-                </th>
+                </th> */}
                 <th scope="col" className="px-6 py-3">
                   Chief Executive
                 </th>
@@ -145,9 +145,9 @@ const AffiliateCompanies = () => {
                 <th scope="col" className="px-6 py-3">
                   Website
                 </th>
-                <th scope="col" className="px-6 py-3 whitespace-nowrap">
+                {/* <th scope="col" className="px-6 py-3 whitespace-nowrap">
                   Hajj Package
-                </th>
+                </th> */}
               </tr>
             </thead>
             <tbody>
@@ -162,686 +162,14 @@ const AffiliateCompanies = () => {
                   1
                 </th>
                 <td className="px-6 py-4">
-                  2191
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Abbas Tours (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  101
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Shabana Waheed Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-6002600
-                </td>
-                <td className="px-6 py-4">
-                  abbas2191@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0483-723900
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Lala G Plaza, Main Khushab Road,
-                  <br />Opposite Maula Bakhsh Hospital,
-                  <br /> Noori Gate Sargodha.
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  2
-                </th>
-                <td className="px-6 py-4">
-                  2148
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Al Furqan International (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  138
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Naeem Baig Mirza
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0330-8554564
-                </td>
-                <td className="px-6 py-4">
-                  alfurqanhajjumra@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-4842516
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No. 1,2,3 Ist Floor, Aashiana
-                  <br /> Shopping Centre, Rehamanabad
-                  <br /> Chowk, Murree Road, Rawalpindi.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.alfurqaninternational.com" target="_blank" rel="noopener noreferrer">
-                    alfurqaninternational.com
-                  </a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  3
-                </th>
-                <td className="px-6 py-4">
-                  2194
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Allah-U-Akbar Hajj & Umrah Services (Pvt) Ltd
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  101
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Abbas Ali
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0334-5077554
-                </td>
-                <td className="px-6 py-4">
-                  allah_u_akbar2194@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-4927392
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Off No 5 First Floor Al Mustafa Plaza,
-                  <br /> Chandni Chowk Rawalpindi
-
-                </td>
-                <td className="px-6 py-4">
-                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="http://allah-u-akbar.net/"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    allah-u-akbar.net
-                  </a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  4
-                </th>
-                <td className="px-6 py-4">
-                  2236
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Al-Tehamah Hajj & Umrah services (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Abdul Mohi Badshah
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0333-9433285
-                </td>
-                <td className="px-6 py-4">
-                  altehamah2236@gmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-4938014
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Flat No. 14, 1st Flore, Rose One Plaza,
-                  <br /> Plot No. 13, I-8 Markaz. Islamabad
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  5
-                </th>
-                <td className="px-6 py-4">
-                  3222
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Arab On Line Services (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  101
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Muhammad Riaz
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0333-4309532
-                </td>
-                <td className="px-6 py-4">
-                  arabonline786@gmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0423-6297447
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No.Gf-07, Empress Tower,
-                  <br /> 46- Empress Road, Lahore.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  6
-                </th>
-                <td className="px-6 py-4">
-                  6106
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Bait-Ullah Tours (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  138
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Abdul Mubeen
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0333-3382266
-                </td>
-                <td className="px-6 py-4">
-                  baitullah6106@gmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0622-877466
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No.15-16, First Floor Asim Plaza,
-                  <br /> Chandani Chowk,Rawalpindi
-
-                </td>
-                <td className="px-6 py-4">
-                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="https://www.baitullahtours.com.pk/"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    baitullahtours.com.pk
-                  </a>
-                </td>
-                <td className="px-6 py-4">
-                <a href="/packages/hajj-package/2025/6-bait-ullah-tours.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  7
-                </th>
-                <td className="px-6 py-4">
-                  2158
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Carvan e Azmat (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  123
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Muhammad Waheed Iqbal Butt
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-8564950
-                </td>
-                <td className="px-6 py-4">
-                  contact@c-azmat.com.pk
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-4906316
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office 8,9,10 Ground Floor Asim Center,
-                  <br /> B Block, Satellite Town, Murree Road,
-                  <br /> Rawalpindi.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  8
-                </th>
-                <td className="px-6 py-4">
-                  2238
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Carvan-e-Yousaf (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Muhammad Abdullah Butt
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0333-5819888
-                </td>
-                <td className="px-6 py-4">
-                  contact@c-yousaf.com.pk
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-4906701
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No. 11, Asim Plaza Near Mcb
-                  <br /> Chandni Chowk Murree Road,
-                  <br /> Rawalpindi
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  9
-                </th>
-                <td className="px-6 py-4">
-                  2220
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Dar Ul Ateeq (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Arshad Mahmood
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-8555534
-                </td>
-                <td className="px-6 py-4">
-                  darulateeq@gmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-5400253
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Shop No.3 Lower Ground Floor, Plaza
-                  <br /> No.53 Bahria Springs Commercial,
-                  <br /> Phase 7, Bahria Town Rawalpindi
-
-                </td>
-                <td className="px-6 py-4">
-                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.dar-ul-ateeq.com" target="_blank" rel="noopener noreferrer">
-                  dar-ul-ateeq.com
-                  </a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  10
-                </th>
-                <td className="px-6 py-4">
-                  2190
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Deedar e Rahamat International Travel & Tours (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  101
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Muhammad Farooq
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-5511940
-                </td>
-                <td className="px-6 py-4">
-                  deedarerahmat@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-2716937
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No. 51-52, 2nd Floor, Aashiana
-                  <br /> Center, Rehmanabad Chowk, Murree
-                  <br /> Road, Rawalpindi
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  11
-                </th>
-                <td className="px-6 py-4">
-                  3338
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Faqeerullah (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Muhammad Afzal Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-8405015
-                </td>
-                <td className="px-6 py-4">
-                  fsdregencytravels@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0423-749596
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  157/12, 1st Floor, Rafique Plaza, Main
-                  <br /> Muslim Town Moor, Ferozwepur Road,
-                  <br /> Lahore
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  12
-                </th>
-                <td className="px-6 py-4">
-                  2104
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Galaxy Hajj and Umrah Services (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  138
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Abdul Ghaffar Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-8562540
-                </td>
-                <td className="px-6 py-4">
-                  galaxy2104@gmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-2877291
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office.No.6 (Basement), Feroz Centre,
-                  <br /> 14-D Fazal-E-Haq Road, Near Tabaq
-                  <br /> Hotel, Blue Area, Islamabad
-
-                </td>
-                <td className="px-6 py-4">
-                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="https://www.galaxyhajj.com.pk"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    galaxyhajj.com.pk
-                  </a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="/packages/hajj-package/2025/12-galaxy-hajj-and-umrah-services.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  13
-                </th>
-                <td className="px-6 py-4">
-                  2119
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  H. Naseem Hassan (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  123
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Sajjad Ullah
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0330-5970070
-                </td>
-                <td className="px-6 py-4">
-                  hnaseemhassan2005@gmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-2276656
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No.2, Block No. 53, Near Pia
-                  <br /> Head Office, Fazal-E-Haq Road,
-                  <br /> Blue Area Islamabad.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  14
-                </th>
-                <td className="px-6 py-4">
-                  2112
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Karwan e Sultania (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  138
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Raja Zafar Ullah Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0333-5273546
-                </td>
-                <td className="px-6 py-4">
-                  karwanesultania@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  058-27444646
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Shop No. 1 Basement Younas Plaza
-                  <br /> Near Gazi Masjid Allama Iqbal
-                  <br /> Road Mirpur Azad Kashmir
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  15
-                </th>
-                <td className="px-6 py-4">
-                  3208
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Karwan-e-Hermain Travel & Tour Operators (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  101
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Shafaat Hussian
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-4509758
-                </td>
-                <td className="px-6 py-4">
-                  khtrwp@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0423-6366908
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Aftab Center 30 Davis Road Lahore.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  16
-                </th>
-                <td className="px-6 py-4">
                   2174
                 </td>
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Karwan-E-Shahzeb Hajj & Umrah Services (Pvt) Ltd
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   101
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Mubashar Ali
                 </td>
@@ -867,9 +195,9 @@ const AffiliateCompanies = () => {
                     karwaneshahzeb.com
                   </a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -879,7 +207,55 @@ const AffiliateCompanies = () => {
                     </div>
                 </td> */}
                 <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  17
+                  2
+                </th>
+                <td className="px-6 py-4">
+                  2194
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Allah-U-Akbar Hajj & Umrah Services (Pvt) Ltd
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  101
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Abbas Ali
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0334-5077554
+                </td>
+                <td className="px-6 py-4">
+                  allah_u_akbar2194@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-4927392
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Off No 5 First Floor Al Mustafa Plaza,
+                  <br /> Chandni Chowk Rawalpindi
+
+                </td>
+                <td className="px-6 py-4">
+                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                    href="http://allah-u-akbar.net/"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    allah-u-akbar.net
+                  </a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  3
                 </th>
                 <td className="px-6 py-4">
                   2246
@@ -887,9 +263,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Karwan-E-Taibba (Pvt) Ltd
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   49
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Ayaz Tariq
                 </td>
@@ -915,9 +291,9 @@ const AffiliateCompanies = () => {
                     karwangroup.net
                   </a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -927,136 +303,7 @@ const AffiliateCompanies = () => {
                     </div>
                 </td> */}
                 <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  18
-                </th>
-                <td className="px-6 py-4">
-                  3330
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Karwan-e-Zaitoon Travel & Tours (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Shahid Amin
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-4281421
-                </td>
-                <td className="px-6 py-4">
-                  karwanezaitoon_intl@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0423-6292967
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  G-13, Hill View Arcade, 5-Davis Road,
-                  <br /> Lahore
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  19
-                </th>
-                <td className="px-6 py-4">
-                  2171
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Lala Gi Tours (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  101
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Sher Jan Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0306-6002000
-                </td>
-                <td className="px-6 py-4">
-                  lalagi2171@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0483-728989
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Shop No.12, Noor Shopping Centre Near
-                  <br /> Taxi Stand Sargodha Pakistan.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  20
-                </th>
-                <td className="px-6 py-4">
-                  3331
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Mayfair Travellers (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Ghulam Murtaza
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-8067708
-                </td>
-                <td className="px-6 py-4">
-                  may_fair_travellers@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0423-6366021
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  11-Ground Floor, Makkah Heights,
-                  <br /> 11-Abbot Road, Lahore
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  21
+                  4
                 </th>
                 <td className="px-6 py-4">
                   3201
@@ -1064,9 +311,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Meraj Un Nabi Travels (Pvt) Ltd.
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   101
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Waseem Iqbal
                 </td>
@@ -1089,9 +336,9 @@ const AffiliateCompanies = () => {
                   meraj.iqbalgroup.biz
                   </a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1101,7 +348,98 @@ const AffiliateCompanies = () => {
                     </div>
                 </td> */}
                 <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  22
+                  5
+                </th>
+                <td className="px-6 py-4">
+                  2220
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Dar Ul Ateeq (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Arshad Mahmood
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-8555534
+                </td>
+                <td className="px-6 py-4">
+                  darulateeq@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-5400253
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Shop No.3 Lower Ground Floor, Plaza
+                  <br /> No.53 Bahria Springs Commercial,
+                  <br /> Phase 7, Bahria Town Rawalpindi
+
+                </td>
+                <td className="px-6 py-4">
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.dar-ul-ateeq.com" target="_blank" rel="noopener noreferrer">
+                  dar-ul-ateeq.com
+                  </a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  6
+                </th>
+                <td className="px-6 py-4">
+                  2226
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Qafla-e-Madienah Hajj Umrah Services (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Munir Ahmed
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0333-5169092
+                </td>
+                <td className="px-6 py-4">
+                  qfl2226@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-5400388
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Plot # 23-B, Ali Market Railway Scheme 1
+                  <br /> Chaklalah Rawalpind
+
+                </td>
+                <td className="px-6 py-4">
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="http://qafla-e-madienah.com" target="_blank" rel="noopener noreferrer">
+                  qafla-e-madienah.com
+                  </a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  7
                 </th>
                 <td className="px-6 py-4">
                   2176
@@ -1109,9 +447,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Multi Faith International (Pvt) Ltd.
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   101
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Zia Masoud Ahmed Toor
                 </td>
@@ -1138,9 +476,671 @@ const AffiliateCompanies = () => {
                     multifaithint.com.pk
                   </a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="/packages/hajj-package/2025/22-multi-faith-international.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  8
+                </th>
+                <td className="px-6 py-4">
+                  6106
                 </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Bait-Ullah Tours (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  138
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Abdul Mubeen
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0333-3382266
+                </td>
+                <td className="px-6 py-4">
+                  baitullah6106@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0622-877466
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No.15-16, First Floor Asim Plaza,
+                  <br /> Chandani Chowk,Rawalpindi
+
+                </td>
+                <td className="px-6 py-4">
+                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                    href="https://www.baitullahtours.com.pk/"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    baitullahtours.com.pk
+                  </a>
+                </td>
+                {/* <td className="px-6 py-4">
+                <a href="/packages/hajj-package/2025/6-bait-ullah-tours.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  9
+                </th>
+                <td className="px-6 py-4">
+                  3208
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Karwan-e-Hermain Travel & Tour Operators (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  101
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Shafaat Hussian
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-4509758
+                </td>
+                <td className="px-6 py-4">
+                  khtrwp@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0423-6366908
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Aftab Center 30 Davis Road Lahore.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  10
+                </th>
+                <td className="px-6 py-4">
+                  2104
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Galaxy Hajj and Umrah Services (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  138
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Abdul Ghaffar Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-8562540
+                </td>
+                <td className="px-6 py-4">
+                  galaxy2104@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-2877291
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office.No.6 (Basement), Feroz Centre,
+                  <br /> 14-D Fazal-E-Haq Road, Near Tabaq
+                  <br /> Hotel, Blue Area, Islamabad
+
+                </td>
+                <td className="px-6 py-4">
+                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                    href="https://www.galaxyhajj.com.pk"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    galaxyhajj.com.pk
+                  </a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="/packages/hajj-package/2025/12-galaxy-hajj-and-umrah-services.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  11
+                </th>
+                <td className="px-6 py-4">
+                  2190
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Deedar e Rahamat International Travel & Tours (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  101
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Muhammad Farooq
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-5511940
+                </td>
+                <td className="px-6 py-4">
+                  deedarerahmat@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-2716937
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No. 51-52, 2nd Floor, Aashiana
+                  <br /> Center, Rehmanabad Chowk, Murree
+                  <br /> Road, Rawalpindi
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  12
+                </th>
+                <td className="px-6 py-4">
+                  2119
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  H. Naseem Hassan (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  123
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Sajjad Ullah
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0330-5970070
+                </td>
+                <td className="px-6 py-4">
+                  hnaseemhassan2005@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-2276656
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No.2, Block No. 53, Near Pia
+                  <br /> Head Office, Fazal-E-Haq Road,
+                  <br /> Blue Area Islamabad.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  13
+                </th>
+                <td className="px-6 py-4">
+                  2171
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Lala Gi Tours (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  101
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Sher Jan Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0306-6002000
+                </td>
+                <td className="px-6 py-4">
+                  lalagi2171@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0483-728989
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Shop No.12, Noor Shopping Centre Near
+                  <br /> Taxi Stand Sargodha Pakistan.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  14
+                </th>
+                <td className="px-6 py-4">
+                  2181
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Tauheed Enterprises (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  101
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Hameed Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-6003200
+                </td>
+                <td className="px-6 py-4">
+                  touheed2181@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0483-721300
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Shop No 12 Noor Shopping Centre Near
+                  <br /> Taxi Stand Sargodha.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  15
+                </th>
+                <td className="px-6 py-4">
+                  2191
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Abbas Tours (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  101
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Shabana Waheed Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-6002600
+                </td>
+                <td className="px-6 py-4">
+                  abbas2191@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0483-723900
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Lala G Plaza, Main Khushab Road,
+                  <br />Opposite Maula Bakhsh Hospital,
+                  <br /> Noori Gate Sargodha.
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  16
+                </th>
+                <td className="px-6 py-4">
+                  2102
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  7 Seas Hajj And Umrah Services (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  115
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Nasir Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0341-6000066
+                </td>
+                <td className="px-6 py-4">
+                  sevenseas2102@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-4862663
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No.10, 1st Floor, Ahmed Centre, I-8
+                  <br /> Markaz, Islamabad.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  17
+                </th>
+                <td className="px-6 py-4">
+                  2243
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Zam Zam Group (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Nadir Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0341-6000066
+                </td>
+                <td className="px-6 py-4">
+                  zamzamair@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-2872468
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  No. 4, Taimur Chambers, Fazal-E-Haq
+                  <br /> Road, Blue Area, Islamabad
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  18
+                </th>
+                <td className="px-6 py-4">
+                  2112
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Karwan e Sultania (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  138
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Raja Zafar Ullah Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0333-5273546
+                </td>
+                <td className="px-6 py-4">
+                  karwanesultania@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  058-27444646
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Shop No. 1 Basement Younas Plaza
+                  <br /> Near Gazi Masjid Allama Iqbal
+                  <br /> Road Mirpur Azad Kashmir
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  19
+                </th>
+                <td className="px-6 py-4">
+                  2158
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Carvan e Azmat (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  123
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Muhammad Waheed Iqbal Butt
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-8564950
+                </td>
+                <td className="px-6 py-4">
+                  contact@c-azmat.com.pk
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-4906316
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office 8,9,10 Ground Floor Asim Center,
+                  <br /> B Block, Satellite Town, Murree Road,
+                  <br /> Rawalpindi.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  20
+                </th>
+                <td className="px-6 py-4">
+                  2238
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Carvan-e-Yousaf (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Muhammad Abdullah Butt
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0333-5819888
+                </td>
+                <td className="px-6 py-4">
+                  contact@c-yousaf.com.pk
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-4906701
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No. 11, Asim Plaza Near Mcb
+                  <br /> Chandni Chowk Murree Road,
+                  <br /> Rawalpindi
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  21
+                </th>
+                <td className="px-6 py-4">
+                  2148
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Al Furqan International (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  138
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Naeem Baig Mirza
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0330-8554564
+                </td>
+                <td className="px-6 py-4">
+                  alfurqanhajjumra@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-4842516
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No. 1,2,3 Ist Floor, Aashiana
+                  <br /> Shopping Centre, Rehamanabad
+                  <br /> Chowk, Murree Road, Rawalpindi.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.alfurqaninternational.com" target="_blank" rel="noopener noreferrer">
+                    alfurqaninternational.com
+                  </a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  22
+                </th>
+                <td className="px-6 py-4">
+                  2130
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Taiba Haramayn (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  138
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Ashraf Ali
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-5127035
+                </td>
+                <td className="px-6 py-4">
+                  taibaharamayn25@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0966-711765
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  East Circular Road Dera Ismail Khan
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1153,14 +1153,277 @@ const AffiliateCompanies = () => {
                   23
                 </th>
                 <td className="px-6 py-4">
+                  3222
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Arab On Line Services (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  101
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Muhammad Riaz
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0333-4309532
+                </td>
+                <td className="px-6 py-4">
+                  arabonline786@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0423-6297447
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No.Gf-07, Empress Tower,
+                  <br /> 46- Empress Road, Lahore.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  24
+                </th>
+                <td className="px-6 py-4">
+                  2236
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Al-Tehamah Hajj & Umrah services (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Abdul Mohi Badshah
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0333-9433285
+                </td>
+                <td className="px-6 py-4">
+                  altehamah2236@gmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  051-4938014
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Flat No. 14, 1st Flore, Rose One Plaza,
+                  <br /> Plot No. 13, I-8 Markaz. Islamabad
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  25
+                </th>
+                <td className="px-6 py-4">
+                  3330
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Karwan-e-Zaitoon Travel & Tours (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Shahid Amin
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-4281421
+                </td>
+                <td className="px-6 py-4">
+                  karwanezaitoon_intl@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0423-6292967
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  G-13, Hill View Arcade, 5-Davis Road,
+                  <br /> Lahore
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  26
+                </th>
+                <td className="px-6 py-4">
+                  3331
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Mayfair Travellers (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Ghulam Murtaza
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-8067708
+                </td>
+                <td className="px-6 py-4">
+                  may_fair_travellers@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0423-6366021
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  11-Ground Floor, Makkah Heights,
+                  <br /> 11-Abbot Road, Lahore
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              
+              
+              
+              
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  27
+                </th>
+                <td className="px-6 py-4">
+                  3338
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  Faqeerullah (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Muhammad Afzal Khan
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0300-8405015
+                </td>
+                <td className="px-6 py-4">
+                  fsdregencytravels@hotmail.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0423-749596
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  157/12, 1st Floor, Rafique Plaza, Main
+                  <br /> Muslim Town Moor, Ferozwepur Road,
+                  <br /> Lahore
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  28
+                </th>
+                <td className="px-6 py-4">
+                  2258
+                </td>
+                <td className="px-6 py-4 font-bold whitespace-nowrap">
+                  S.G International Tours (Pvt) Ltd.
+                </td>
+                {/* <td className="px-6 py-4 font-bold">
+                  49
+                </td> */}
+                <td className="px-6 py-4 whitespace-nowrap">
+                  Shehzad Ahmed
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0333-5852814
+                </td>
+                <td className="px-6 py-4">
+                  sgjhelum@yahoo.com
+                </td>
+                <td className="px-6 py-4 whitespace-nowrap">
+                  0544-610042
+                </td>
+                <td className="px-6 py- whitespace-nowrap">
+                  Office No. 49,Old Gt Road, Gts Chowk,
+                  <br /> Rah-E-Aziz, Jhelum Cantt.
+
+                </td>
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
+                {/* <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td> */}
+              </tr>
+              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                {/* <td className="w-4 p-4">
+                    <div className="flex items-center">
+                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
+                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
+                    </div>
+                </td> */}
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                  29
+                </th>
+                <td className="px-6 py-4">
                   3117
                 </td>
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Pan Islamic Tours & Travels (Pvt) Ltd.
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   123
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Salman
                 </td>
@@ -1186,10 +1449,13 @@ const AffiliateCompanies = () => {
                     panislamic.com.pk
                   </a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="/packages/hajj-package/2025/23-pan-islamic.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
-                </td>
+                </td> */}
               </tr>
+              
+              
+              
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
@@ -1198,138 +1464,7 @@ const AffiliateCompanies = () => {
                     </div>
                 </td> */}
                 <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  24
-                </th>
-                <td className="px-6 py-4">
-                  2226
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Qafla-e-Madienah Hajj Umrah Services (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Munir Ahmed
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0333-5169092
-                </td>
-                <td className="px-6 py-4">
-                  qfl2226@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-5400388
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Plot # 23-B, Ali Market Railway Scheme 1
-                  <br /> Chaklalah Rawalpind
-
-                </td>
-                <td className="px-6 py-4">
-                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="http://qafla-e-madienah.com" target="_blank" rel="noopener noreferrer">
-                  qafla-e-madienah.com
-                  </a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  25
-                </th>
-                <td className="px-6 py-4">
-                  2102
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  7 Seas Hajj And Umrah Services (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  115
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Nasir Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0341-6000066
-                </td>
-                <td className="px-6 py-4">
-                  sevenseas2102@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-4862663
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No.10, 1st Floor, Ahmed Centre, I-8
-                  <br /> Markaz, Islamabad.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  26
-                </th>
-                <td className="px-6 py-4">
-                  2258
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  S.G International Tours (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Shehzad Ahmed
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0333-5852814
-                </td>
-                <td className="px-6 py-4">
-                  sgjhelum@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0544-610042
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Office No. 49,Old Gt Road, Gts Chowk,
-                  <br /> Rah-E-Aziz, Jhelum Cantt.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  27
+                  30
                 </th>
                 <td className="px-6 py-4">
                   3344
@@ -1337,9 +1472,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Safina-e-Haram (Pvt) Ltd.
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   49
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Manan Anbalvi
                 </td>
@@ -1360,137 +1495,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
                 </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  28
-                </th>
-                <td className="px-6 py-4">
-                  2130
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Taiba Haramayn (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  138
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Ashraf Ali
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-5127035
-                </td>
-                <td className="px-6 py-4">
-                  taibaharamayn25@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0966-711765
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  East Circular Road Dera Ismail Khan
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  29
-                </th>
-                <td className="px-6 py-4">
-                  2181
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Tauheed Enterprises (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  101
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Hameed Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0300-6003200
-                </td>
-                <td className="px-6 py-4">
-                  touheed2181@yahoo.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0483-721300
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  Shop No 12 Noor Shopping Centre Near
-                  <br /> Taxi Stand Sargodha.
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
-                {/* <td className="w-4 p-4">
-                    <div className="flex items-center">
-                        <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-                        <label for="checkbox-table-1" className="sr-only">checkbox</label>
-                    </div>
-                </td> */}
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                  30
-                </th>
-                <td className="px-6 py-4">
-                  2243
-                </td>
-                <td className="px-6 py-4 font-bold whitespace-nowrap">
-                  Zam Zam Group (Pvt) Ltd.
-                </td>
-                <td className="px-6 py-4 font-bold">
-                  49
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  Nadir Khan
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  0341-6000066
-                </td>
-                <td className="px-6 py-4">
-                  zamzamair@hotmail.com
-                </td>
-                <td className="px-6 py-4 whitespace-nowrap">
-                  051-2872468
-                </td>
-                <td className="px-6 py- whitespace-nowrap">
-                  No. 4, Taimur Chambers, Fazal-E-Haq
-                  <br /> Road, Blue Area, Islamabad
-
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1508,9 +1515,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Allamah Banori Hajj And Umrah Services (Pvt) Ltd.
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   176
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Rafique Shaikh
                 </td>
@@ -1532,9 +1539,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1552,9 +1559,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Saleem Akhtar Travel & Tours (Pvt) Ltd.
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   147
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Saleem Akhtar
                 </td>
@@ -1575,9 +1582,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1595,9 +1602,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Labbaik-E-Haram Travel & Tours (Pvt) Ltd.
                 </td>
-                <td className="px-6 py-4 font-bold">
+                {/* <td className="px-6 py-4 font-bold">
                   90
-                </td>
+                </td> */}
                 <td className="px-6 py-4 whitespace-nowrap">
                   Sheikh khalil Ur Rehman
                 </td>
@@ -1618,9 +1625,9 @@ const AffiliateCompanies = () => {
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
               </tr>
 
             </tbody>
@@ -1632,4 +1639,4 @@ const AffiliateCompanies = () => {
   );
 };
 
-export default AffiliateCompanies;
+export default ContributingPartners;
