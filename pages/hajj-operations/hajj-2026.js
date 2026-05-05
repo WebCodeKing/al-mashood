@@ -85,14 +85,14 @@ export default function Hajj2026() {
                 </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="http://www.karwaneshahzeb.com/"
+                    href="/hajj-operations/2026/1-karwan-e-shahzeb-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    karwaneshahzeb.com
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/1-karwan-e-shahzeb-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -133,14 +133,14 @@ export default function Hajj2026() {
                 </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="http://allah-u-akbar.net/"
+                    href="/hajj-operations/2026/2-allah-u-akbar-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    allah-u-akbar.net
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/2-allah-u-akbar-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -181,14 +181,14 @@ export default function Hajj2026() {
                 </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="http://karwangroup.net/"
+                    href="/hajj-operations/2026/3-karwan-e-taibba-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    karwangroup.net
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/3-karwan-e-taibba-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -228,12 +228,12 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.meraj.iqbalgroup.biz" target="_blank" rel="noopener noreferrer">
-                  meraj.iqbalgroup.biz
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/meraj-un-nabi-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
+                  
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/4-meraj-un-nabi-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -274,12 +274,12 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.dar-ul-ateeq.com" target="_blank" rel="noopener noreferrer">
-                  dar-ul-ateeq.com
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/5-dar-ul-ateeq-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
+                  View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/5-dar-ul-ateeq-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -319,12 +319,12 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="http://qafla-e-madienah.com" target="_blank" rel="noopener noreferrer">
-                  qafla-e-madienah.com
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/6-qafla-e-madienah-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
+                  View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/6-qafla-e-madienah-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -366,14 +366,14 @@ export default function Hajj2026() {
                 </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="https://www.multifaithint.com.pk"
+                    href="/hajj-operations/2026/7-multi-faith-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    multifaithint.com.pk
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="/packages/hajj-package/2025/22-multi-faith-international.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
+                  <a href="/hajj-operations/2026/7-multi-faith-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -414,14 +414,14 @@ export default function Hajj2026() {
                 </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="https://www.baitullahtours.com.pk/"
+                    href="/hajj-operations/2026/8-bait-ullah-tours-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    baitullahtours.com.pk
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                <a href="/packages/hajj-package/2025/6-bait-ullah-tours.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
+                <a href="/packages/hajj-package/2025/6-bait-ullah-tours.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -460,10 +460,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/9-karwan-e-hermain-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/9-karwan-e-hermain-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -505,14 +505,14 @@ export default function Hajj2026() {
                 </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="https://www.galaxyhajj.com.pk"
+                    href="/hajj-operations/2026/10-galaxy-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    galaxyhajj.com.pk
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="/packages/hajj-package/2025/12-galaxy-hajj-and-umrah-services.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
+                  <a href="/hajj-operations/2026/10-galaxy-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -553,10 +553,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/11-deedar-e-rahamat-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/11-deedar-e-rahamat-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -597,10 +597,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/12-h.-naseem-hassan-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/12-h.-naseem-hassan-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -640,10 +640,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/13-lala-gi-tours-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/13-lala-gi-tours-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -683,10 +683,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/14-tauheed-enterprises-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/14-tauheed-enterprises-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -726,10 +726,10 @@ export default function Hajj2026() {
                   <br /> Noori Gate Sargodha.
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/15-abbas-tours-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/15-abbas-tours-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -769,10 +769,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/16-7-seas-hajjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/16-7-seas-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -812,11 +812,11 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/17-zam-zam-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/17-zam-zam-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -856,10 +856,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/18-karwan-e-sultania-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/18-karwan-e-sultania-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -900,10 +900,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/19-carvan-e-azmat-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/19-carvan-e-azmat-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -944,10 +944,10 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/20-carvan-e-yousaf-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/20-carvan-e-yousaf-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -988,12 +988,12 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.alfurqaninternational.com" target="_blank" rel="noopener noreferrer">
-                    alfurqaninternational.com
+                  <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/21-al-furqan-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/21-al-furqan-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1032,10 +1032,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/22-taiba-haramayn-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/22-taiba-haramayn-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1075,10 +1079,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/23-arab-on-line-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/23-arab-on-line-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1118,10 +1126,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/24-al-tehamah-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/24-al-tehamah-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View Package
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1161,10 +1173,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/25-karwan-e-zaitoon-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/25-karwan-e-zaitoon-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1204,10 +1220,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/26-mayfair-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/26-mayfair-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View Package
+                  </a>
                 </td>
               </tr>
               
@@ -1252,10 +1272,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/27-faqeerullah-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/27-faqeerullah-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1295,10 +1319,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/28-s.g-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/28-s.g-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View Package
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1339,14 +1367,16 @@ export default function Hajj2026() {
                 </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                    href="https://panislamic.com.pk"
+                    href="/hajj-operations/2026/29-pan-islamic-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    panislamic.com.pk
+                    View List
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="/packages/hajj-package/2025/23-pan-islamic.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
+                  <a href="/hajj-operations/2026/29-pan-islamic-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View Package
+                  </a>
                 </td>
               </tr>
               
@@ -1389,10 +1419,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/30-safina-e-haram-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/30-safina-e-haram-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View Package
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1433,10 +1467,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/31-allamah-banori-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/31-allamah-banori-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View Package
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1476,10 +1514,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/32-saleem-akhtar-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/32-saleem-akhtar-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1519,10 +1561,14 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/33-labbaik-e-haram-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View List
+                  </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2026/33-labbaik-e-haram-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    
+                  </a>
                 </td>
               </tr>
 
