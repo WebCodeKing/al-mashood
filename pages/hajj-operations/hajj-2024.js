@@ -20,9 +20,9 @@ export default function Hajj2024() {
                 <th scope="col" className="px-6 py-3">
                   Name of HGO
                 </th>
-                {/* <th scope="col" className="px-6 py-3">
+                <th scope="col" className="px-6 py-3">
                   Quota
-                </th> */}
+                </th>
                 {/* <th scope="col" className="px-6 py-3">
                   Chief Executive
                 </th>
@@ -63,9 +63,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Karwan-E-Shahzeb Hajj & Umrah Services (Pvt) Ltd
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Mubashar Ali
                 </td>
@@ -111,9 +111,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Allah-U-Akbar Hajj & Umrah Services (Pvt) Ltd
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abbas Ali
                 </td>
@@ -159,9 +159,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Karwan-E-Taibba (Pvt) Ltd
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Ayaz Tariq
                 </td>
@@ -207,9 +207,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Meraj Un Nabi Travels (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Waseem Iqbal
                 </td>
@@ -252,9 +252,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Dar Ul Ateeq (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Arshad Mahmood
                 </td>
@@ -298,9 +298,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Qafla-e-Madienah Hajj Umrah Services (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Munir Ahmed
                 </td>
@@ -343,9 +343,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Multi Faith International (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Zia Masoud Ahmed Toor
                 </td>
@@ -392,9 +392,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Bait-Ullah Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  138
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Mubeen
                 </td>
@@ -440,9 +440,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Karwan-e-Hermain Travel & Tour Operators (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shafaat Hussian
                 </td>
@@ -482,9 +482,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Galaxy Hajj and Umrah Services (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  138
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Ghaffar Khan
                 </td>
@@ -531,9 +531,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Deedar e Rahamat International Travel & Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Farooq
                 </td>
@@ -575,9 +575,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   H. Naseem Hassan (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  123
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Sajjad Ullah
                 </td>
@@ -619,9 +619,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Lala Gi Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Sher Jan Khan
                 </td>
@@ -662,9 +662,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Tauheed Enterprises (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Hameed Khan
                 </td>
@@ -705,9 +705,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Abbas Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shabana Waheed Khan
                 </td>
@@ -748,9 +748,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   7 Seas Hajj And Umrah Services (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  115
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Nasir Khan
                 </td>
@@ -791,9 +791,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Zam Zam Group (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Nadir Khan
                 </td>
@@ -834,9 +834,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Karwan e Sultania (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  138
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Raja Zafar Ullah Khan
                 </td>
@@ -878,9 +878,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Carvan e Azmat (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  123
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Waheed Iqbal Butt
                 </td>
@@ -922,9 +922,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Carvan-e-Yousaf (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Abdullah Butt
                 </td>
@@ -966,9 +966,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Al Furqan International (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  138
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Naeem Baig Mirza
                 </td>
@@ -1012,9 +1012,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Taiba Haramayn (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  138
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Ashraf Ali
                 </td>
@@ -1058,9 +1058,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Arab On Line Services (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  101
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Riaz
                 </td>
@@ -1105,9 +1105,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Al-Tehamah Hajj & Umrah services (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Mohi Badshah
                 </td>
@@ -1152,9 +1152,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Karwan-e-Zaitoon Travel & Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shahid Amin
                 </td>
@@ -1199,9 +1199,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Mayfair Travellers (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Ghulam Murtaza
                 </td>
@@ -1250,9 +1250,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Faqeerullah (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Afzal Khan
                 </td>
@@ -1298,9 +1298,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   S.G International Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shehzad Ahmed
                 </td>
@@ -1345,9 +1345,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Pan Islamic Tours & Travels (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  123
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Salman
                 </td>
@@ -1398,9 +1398,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Safina-e-Haram (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  49
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Manan Anbalvi
                 </td>
@@ -1445,9 +1445,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Allamah Banori Hajj And Umrah Services (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  176
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Rafique Shaikh
                 </td>
@@ -1493,9 +1493,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Saleem Akhtar Travel & Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  147
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Saleem Akhtar
                 </td>
@@ -1540,9 +1540,9 @@ export default function Hajj2024() {
                 <td className="px-6 py-4 font-bold whitespace-nowrap">
                   Labbaik-E-Haram Travel & Tours (Pvt) Ltd.
                 </td>
-                {/* <td className="px-6 py-4 font-bold">
-                  90
-                </td> */}
+                <td className="px-6 py-4 font-bold">
+                  
+                </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Sheikh khalil Ur Rehman
                 </td>

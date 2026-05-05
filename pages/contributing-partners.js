@@ -10,7 +10,7 @@ import "swiper/css/pagination";
 const ContributingPartners = () => {
   return (
     <>
-      <div>
+      {/* <div>
         <div className="relative w-full h-auto flex items-center justify-center">
           <Image
             src="/packages/title.jpeg"
@@ -28,10 +28,10 @@ const ContributingPartners = () => {
             </p>
           </div>
           <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-white to-transparent"></div>
-        </div>
-        <div className="max-w-6xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center gap-8 my-[120px]">
+        </div> */}
+        {/* <div className="max-w-6xl mx-auto px-6 py-12 flex flex-col md:flex-row items-center gap-8 my-[120px]"> */}
           {/* Left Side - Package Description */}
-          <div className="w-full md:w-1/2 text-left text-justify">
+          {/* <div className="w-full md:w-1/2 text-left text-justify"> */}
             {/* <h2 className="text-3xl font-bold mb-4">Hajj & Umrah Packages</h2>
             <p className="leading-relaxed">
               Experience a hassle-free and spiritually enriching journey with our **Hajj & Umrah** packages.
@@ -43,12 +43,12 @@ const ContributingPartners = () => {
               Choose from **economy, premium, and VIP packages**, tailored to meet your budget and preferences.
               Book now and let us take care of all the arrangements for your sacred journey!
             </p> */}
-            <h2 className="text-3xl font-bold mb-4">Al-Mashood Munazzam Pvt Ltd</h2>
-            <p>
-              Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring togetherwith{/* 31 */}&nbsp;33 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim.
-            </p>
-          </div>
-          <img className="lg:mx-0 mx-auto w-full md:w-[40vw] md:h-[70vh] rounded-3xl object-cover overflow-hidden" src="/packages/hujjaj.jpg" alt="about Us image" />
+            {/* <h2 className="text-3xl font-bold mb-4">Al-Mashood Munazzam Pvt Ltd</h2> */}
+             {/* <p> */}
+              {/* Al-Mashood Munazzam Pvt Ltd is a leading organization dedicated to providing exceptional Hajj and Umrah services. Established in 2024, we bring togetherwith31&nbsp;33 reputable Hajj companies under one platform, ensuring a seamless and spiritually enriching pilgrimage experience. As an IATA-accredited agent and a proud member of the Travel Agents Association of Pakistan (TAAP), we are officially registered with the Ministry of Religious Affairs. Our commitment to excellence, combined with strong partnerships in Saudi Arabia, allows us to offer a range of well-organized, comfortable, and reliable pilgrimage packages tailored to the needs of every pilgrim. */}
+            {/* </p> */} 
+           {/* </div> */}
+          {/* // <img className="lg:mx-0 mx-auto w-full md:w-[40vw] md:h-[70vh] rounded-3xl object-cover overflow-hidden" src="/packages/hujjaj.jpg" alt="about Us image" /> */}
           {/* Right Side - Image Slider */}
           {/* <div className="w-full md:w-1/2"> */}
           {/* <h2 className="text-gray-200 text-[30px] font-bold text-center mb-6">Our Packages</h2> */}
@@ -100,8 +100,8 @@ const ContributingPartners = () => {
               </SwiperSlide>
             </Swiper> */}
           {/* </div> */}
-        </div>
-      </div>
+        {/* // </div> */}
+      {/* // </div> */}
       <div id="Company" className="flex flex-col items-center mb-[150px] mt-[120px]">
 
 
