@@ -443,7 +443,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   101
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shafaat Hussian
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -458,13 +458,13 @@ export default function Hajj2026() {
                 <td className="px-6 py- whitespace-nowrap">
                   Aftab Center 30 Davis Road Lahore.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -485,7 +485,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   138
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Ghaffar Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -502,7 +502,7 @@ export default function Hajj2026() {
                   <br /> 14-D Fazal-E-Haq Road, Near Tabaq
                   <br /> Hotel, Blue Area, Islamabad
 
-                </td>
+                </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="https://www.galaxyhajj.com.pk"
@@ -511,9 +511,9 @@ export default function Hajj2026() {
                     galaxyhajj.com.pk
                   </a>
                 </td>
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/packages/hajj-package/2025/12-galaxy-hajj-and-umrah-services.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
-                </td> */}
+                </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -534,7 +534,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   101
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Farooq
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -551,13 +551,13 @@ export default function Hajj2026() {
                   <br /> Center, Rehmanabad Chowk, Murree
                   <br /> Road, Rawalpindi
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -578,7 +578,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   123
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Sajjad Ullah
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -595,13 +595,13 @@ export default function Hajj2026() {
                   <br /> Head Office, Fazal-E-Haq Road,
                   <br /> Blue Area Islamabad.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -622,7 +622,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   101
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Sher Jan Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -638,13 +638,13 @@ export default function Hajj2026() {
                   Shop No.12, Noor Shopping Centre Near
                   <br /> Taxi Stand Sargodha Pakistan.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -665,7 +665,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   101
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Hameed Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -681,13 +681,13 @@ export default function Hajj2026() {
                   Shop No 12 Noor Shopping Centre Near
                   <br /> Taxi Stand Sargodha.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -708,7 +708,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   101
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shabana Waheed Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -724,13 +724,13 @@ export default function Hajj2026() {
                   Lala G Plaza, Main Khushab Road,
                   <br />Opposite Maula Bakhsh Hospital,
                   <br /> Noori Gate Sargodha.
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -751,7 +751,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   115
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Nasir Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -767,13 +767,13 @@ export default function Hajj2026() {
                   Office No.10, 1st Floor, Ahmed Centre, I-8
                   <br /> Markaz, Islamabad.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -794,7 +794,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Nadir Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -810,7 +810,7 @@ export default function Hajj2026() {
                   No. 4, Taimur Chambers, Fazal-E-Haq
                   <br /> Road, Blue Area, Islamabad
 
-                </td>
+                </td> */}
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
@@ -837,7 +837,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   138
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Raja Zafar Ullah Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -854,13 +854,13 @@ export default function Hajj2026() {
                   <br /> Near Gazi Masjid Allama Iqbal
                   <br /> Road Mirpur Azad Kashmir
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -881,7 +881,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   123
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Waheed Iqbal Butt
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -898,13 +898,13 @@ export default function Hajj2026() {
                   <br /> B Block, Satellite Town, Murree Road,
                   <br /> Rawalpindi.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -925,7 +925,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Abdullah Butt
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -942,13 +942,13 @@ export default function Hajj2026() {
                   <br /> Chandni Chowk Murree Road,
                   <br /> Rawalpindi
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -969,7 +969,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   138
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Naeem Baig Mirza
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -986,15 +986,15 @@ export default function Hajj2026() {
                   <br /> Shopping Centre, Rehamanabad
                   <br /> Chowk, Murree Road, Rawalpindi.
 
-                </td>
+                </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.alfurqaninternational.com" target="_blank" rel="noopener noreferrer">
                     alfurqaninternational.com
                   </a>
                 </td>
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
+                </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1015,7 +1015,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   138
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Ashraf Ali
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1030,13 +1030,13 @@ export default function Hajj2026() {
                 <td className="px-6 py- whitespace-nowrap">
                   East Circular Road Dera Ismail Khan
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1057,7 +1057,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   101
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Riaz
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1073,13 +1073,13 @@ export default function Hajj2026() {
                   Office No.Gf-07, Empress Tower,
                   <br /> 46- Empress Road, Lahore.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1100,7 +1100,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Mohi Badshah
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1116,13 +1116,13 @@ export default function Hajj2026() {
                   Flat No. 14, 1st Flore, Rose One Plaza,
                   <br /> Plot No. 13, I-8 Markaz. Islamabad
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1143,7 +1143,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shahid Amin
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1159,13 +1159,13 @@ export default function Hajj2026() {
                   G-13, Hill View Arcade, 5-Davis Road,
                   <br /> Lahore
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1186,7 +1186,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Ghulam Murtaza
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1202,13 +1202,13 @@ export default function Hajj2026() {
                   11-Ground Floor, Makkah Heights,
                   <br /> 11-Abbot Road, Lahore
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               
               
@@ -1233,7 +1233,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Afzal Khan
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1250,13 +1250,13 @@ export default function Hajj2026() {
                   <br /> Muslim Town Moor, Ferozwepur Road,
                   <br /> Lahore
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1277,7 +1277,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Shehzad Ahmed
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1293,13 +1293,13 @@ export default function Hajj2026() {
                   Office No. 49,Old Gt Road, Gts Chowk,
                   <br /> Rah-E-Aziz, Jhelum Cantt.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1320,7 +1320,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   123
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Salman
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1336,7 +1336,7 @@ export default function Hajj2026() {
                   Office No.1, Makkah Heights, 11-Abbott
                   <br /> Road, Lahore.
 
-                </td>
+                </td> */}
                 <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="https://panislamic.com.pk"
@@ -1345,9 +1345,9 @@ export default function Hajj2026() {
                     panislamic.com.pk
                   </a>
                 </td>
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/packages/hajj-package/2025/23-pan-islamic.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
-                </td> */}
+                </td>
               </tr>
               
               
@@ -1371,7 +1371,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   49
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abdul Manan Anbalvi
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1387,13 +1387,13 @@ export default function Hajj2026() {
                   Lg F-7 Century Tower Kalma Chowk
                   <br /> Gulberg Iii Lahore
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1414,7 +1414,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   176
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Rafique Shaikh
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1431,13 +1431,13 @@ export default function Hajj2026() {
                   View, Plot No. 93-94, Stadium Road,<br />
                    KMCH Society, Karachi-75300.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1458,7 +1458,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   147
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Saleem Akhtar
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1474,13 +1474,13 @@ export default function Hajj2026() {
                   Office No. 178/A, Jail Road, Near Gulab<br />
                    Pan House, Hirabad, Hyderabad
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
@@ -1501,7 +1501,7 @@ export default function Hajj2026() {
                 {/* <td className="px-6 py-4 font-bold">
                   90
                 </td> */}
-                <td className="px-6 py-4 whitespace-nowrap">
+                {/* <td className="px-6 py-4 whitespace-nowrap">
                   Sheikh khalil Ur Rehman
                 </td>
                 <td className="px-6 py-4 whitespace-nowrap">
@@ -1517,13 +1517,13 @@ export default function Hajj2026() {
                   Shop No. 20 Frere Business Centre, Frere<br />
                    Road, Shahrah-e-Liaquat, Karachi.
 
+                </td> */}
+                <td className="px-6 py-4">
+                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-                {/* <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td> */}
               </tr>
 
             </tbody>
