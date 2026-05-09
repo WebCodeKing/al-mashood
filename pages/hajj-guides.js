@@ -5,25 +5,25 @@ import Link from 'next/link'
 const HajjGuides = () => {
     return (
         <div className=''>
-            <div className="relative w-full h-auto flex items-center justify-center">
+            {/* <div className="relative w-full h-auto flex items-center justify-center">
                 {/* Background Image */}
-                <Image
+                {/* <Image
                     src="/hajj-guide/title-hajj-guide.jpg"
                     alt="Madina Image"
                     width={1920}
                     height={1080}
-                    className="md:h-[100vh]"
-                />
+                    // className="md:h-[100vh]"
+                /> */}
                 
                 {/* Overlay Text */}
-                <div className="hidden md:block absolute bg-black bg-opacity-45 text-center text-white p-5 rounded-xl md:mb-[10vh]">
+                {/* <div className="hidden md:block absolute bg-black bg-opacity-45 text-center text-white p-5 rounded-xl md:mb-[10vh]">
                     <h1 className="text-[45px] font-bold">Al-Mashood Munazzam Pvt Ltd</h1>
                     <p className="text-[22px] mt-3 max-w-[50vw] mx-auto">
                         A complete step-by-step guide to help you navigate your sacred journey with ease, ensuring a meaningful and spiritually fulfilling Hajj experience.
                     </p>
                 </div>
-                <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-white to-transparent"></div>
-            </div>
+                <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-white to-transparent"></div> */}
+            {/* </div> */}
                 <div className='w-90% md:w-[100%] h-[100px] mt-[60px] md:mt-[100px] text-center'><strong className='text-gray-500 text-[40px] md:text-[70px] underline decoration-gray-500 decoration-4'>HAJJ GUIDES</strong></div>
             <div className="flex flex-wrap gap-8 md:flex-row justify-center items-center mb-0 my-[150px]">
                 <Link href="/hajj-guide/pdf/01-Hajj-Ka-Tareeqa.pdf" className=''><div className="relative inline-block shadow-xl border -white hover:border-black rounded-lg">
