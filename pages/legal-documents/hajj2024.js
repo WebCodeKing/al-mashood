@@ -14,91 +14,151 @@ import {
 
 const documentSections = [
   {
+    id: 'secp',
+    title: 'SECP Documents',
+    shortTitle: 'SECP',
+    description: 'Securities and Exchange Commission of Pakistan registration, incorporation, and statutory attachments.',
+    icon: Building2,
+    documents: [
+      {
+        title: 'Certificate of Incorporation',
+        description: 'Official company incorporation certificate issued for registration record.',
+        preview: '/legal-documents/2024/certifiacte-of-incorporation.png',
+        href: '/legal-documents/2024/certifiacte-of-incorporation.pdf',
+      },
+      {
+        title: 'SECP Form II',
+        description: 'Company particulars and statutory registration attachment.',
+        preview: '/legal-documents/2024/form-II.png',
+        href: '/legal-documents/2024/form-II.pdf',
+      },
+      {
+        title: 'Articles of Association',
+        description: 'The foundational document outlining the company\'s purpose, structure, and rules.',
+        preview: '/legal-documents/2024/aoa_page-0001.jpg',
+        href: '/legal-documents/2024/aoa.pdf',
+      },
+        {
+        title: 'Memorandum of Association',
+        description: 'The legal document that defines the company\'s relationship with the outside world, including its objectives and powers.',
+        preview: '/legal-documents/2024/moa_page-0001.jpg',
+        href: '/legal-documents/2024/moa.pdf',
+      },
+    ],
+  },
+  {
     id: 'mora',
     title: 'Ministry of Religious Affairs',
     shortTitle: 'MORA',
-    description: 'Ministry recognition, approval, and compliance attachments for Hajj 2026.',
+    description: 'Ministry recognition, approval, and compliance attachments for Hajj 2024.',
     icon: Landmark,
     documents: [
       {
         title: 'Recognition Letter',
         description: 'Official ministry recognition attachment.',
-        preview: '/SECP/2025/Recognition Letter.jpg',
-        href: '/SECP/2025/recognition-letter.pdf',
+        preview: '/legal-documents/2024/recongniation-letter.jpg',
+        href: '/legal-documents/2024/recongniation-letter.pdf',
       },
-      {
-        title: 'Approval Attachment',
-        description: 'Supporting approval or ministry correspondence.',
-        preview: '/SECP/2025/CTC OF INC. FORM-II_Page_1.jpg',
-        href: '/SECP/2025/CTC OF INC. FORM-II.pdf',
-      },
-      {
-        title: 'Compliance Attachment',
-        description: 'Additional MORA compliance record for public reference.',
-        preview: '/SECP/2025/form-III/form-III_page-0001.jpg',
-        href: '/SECP/2025/form-III.pdf',
-      },
+      // {
+      //   title: 'Approval Attachment',
+      //   description: 'Supporting approval or ministry correspondence.',
+      //   preview: '/legal-documents/2025/CTC OF INC. FORM-II_Page_1.jpg',
+      //   href: '/legal-documents/2025/CTC OF INC. FORM-II.pdf',
+      // },
+      // {
+      //   title: 'Compliance Attachment',
+      //   description: 'Additional MORA compliance record for public reference.',
+      //   preview: '/legal-documents/2025/form-III/form-III_page-0001.jpg',
+      //   href: '/legal-documents/2025/form-III.pdf',
+      // },
     ],
   },
   {
-    id: 'association',
-    title: 'Association Documents',
-    shortTitle: 'Association',
-    description: 'Association membership, registration, and supporting legal attachments.',
-    icon: UsersRound,
+    id: 'fbr',
+    title: 'FBR Documents',
+    shortTitle: 'FBR',
+    description: 'Federal Board of Revenue tax registration, verification, and supporting compliance attachments.',
+    icon: FileCheck2,
     documents: [
       {
-        title: 'Association Certificate',
-        description: 'Membership or association registration certificate.',
-        preview: '/SECP/2024/Certifiacte of Incorporation.png',
-        href: '/SECP/2024/certifiacte-of-incorporation.pdf',
+        title: 'Tax Registration Certificate',
+        description: 'Company tax registration record maintained for compliance reference.',
+        preview: '/legal-documents/2024/ntn-al-mashood-d061224_page-0001.jpg',
+        href: '/legal-documents/2024/ntn-al-mashood-d061224.pdf',
       },
-      {
-        title: 'Association Form II',
-        description: 'Association statutory attachment and particulars.',
-        preview: '/SECP/2025/CTC OF INC. FORM-II_Page_3.jpg',
-        href: '/SECP/2025/CTC OF INC. FORM-II.pdf',
-      },
-      {
-        title: 'Association Form III',
-        description: 'Association compliance and supporting information.',
-        preview: '/SECP/2025/CTC OF INC. FORM-II_Page_4.jpg',
-        href: '/SECP/2025/form-III.pdf',
-      },
+      // {
+      //   title: 'NTN Verification',
+      //   description: 'National Tax Number verification and supporting record attachment.',
+      //   preview: '/legal-documents/2024/form-II.png',
+      //   href: '/legal-documents/2024/form-II.pdf',
+      // },
+      // {
+      //   title: 'Taxpayer Status',
+      //   description: 'FBR taxpayer status and compliance reference attachment.',
+      //   preview: '/legal-documents/2024/aoa_page-0001.jpg',
+      //   href: '/legal-documents/2024/aoa.pdf',
+      // },
     ],
   },
-  {
-    id: 'hoap',
-    title: 'HOAP Attachments',
-    shortTitle: 'HOAP',
-    description: 'Hajj Operators Association of Pakistan attachments, certification, and records.',
-    icon: ShieldCheck,
-    documents: [
-      {
-        title: 'HOAP Certificate',
-        description: 'Official HOAP certificate or membership record.',
-        preview: '/SECP/2025/CTC OF INC. FORM-II_Page_5.jpg',
-        href: '/SECP/2024/FORM-II (Al-mashood).pdf',
-      },
-      {
-        title: 'HOAP Attachment I',
-        description: 'Supporting HOAP operational or compliance attachment.',
-        preview: '/SECP/2025/Recognition Letter.jpg',
-        href: '/SECP/2025/recognition-letter.pdf',
-      },
-      {
-        title: 'HOAP Attachment II',
-        description: 'Additional HOAP record for official reference.',
-        preview: '/SECP/2025/form-III/form-III_page-0001.jpg',
-        href: '/SECP/2025/form-III.pdf',
-      },
-    ],
-  },
+  // {
+  //   id: 'association',
+  //   title: 'Association Documents',
+  //   shortTitle: 'Association',
+  //   description: 'Association membership, registration, and supporting legal attachments.',
+  //   icon: UsersRound,
+  //   documents: [
+  //     {
+  //       title: 'Association Certificate',
+  //       description: 'Membership or association registration certificate.',
+  //       preview: '/legal-documents/2024/certifiacte-of-incorporation.png',
+  //       href: '/legal-documents/2024/certifiacte-of-incorporation.pdf',
+  //     },
+  //     {
+  //       title: 'Association Form II',
+  //       description: 'Association statutory attachment and particulars.',
+  //       preview: '/legal-documents/2025/CTC OF INC. FORM-II_Page_3.jpg',
+  //       href: '/legal-documents/2025/CTC OF INC. FORM-II.pdf',
+  //     },
+  //     {
+  //       title: 'Association Form III',
+  //       description: 'Association compliance and supporting information.',
+  //       preview: '/legal-documents/2025/CTC OF INC. FORM-II_Page_4.jpg',
+  //       href: '/legal-documents/2025/form-III.pdf',
+  //     },
+  //   ],
+  // },
+  // {
+  //   id: 'hoap',
+  //   title: 'HOAP Attachments',
+  //   shortTitle: 'HOAP',
+  //   description: 'Hajj Operators Association of Pakistan attachments, certification, and records.',
+  //   icon: ShieldCheck,
+  //   documents: [
+  //     {
+  //       title: 'HOAP Certificate',
+  //       description: 'Official HOAP certificate or membership record.',
+  //       preview: '/legal-documents/2025/CTC OF INC. FORM-II_Page_5.jpg',
+  //       href: '/legal-documents/2024/form-II.pdf',
+  //     },
+  //     {
+  //       title: 'HOAP Attachment I',
+  //       description: 'Supporting HOAP operational or compliance attachment.',
+  //       preview: '/legal-documents/2025/Recognition Letter.jpg',
+  //       href: '/legal-documents/2025/recognition-letter.pdf',
+  //     },
+  //     {
+  //       title: 'HOAP Attachment II',
+  //       description: 'Additional HOAP record for official reference.',
+  //       preview: '/legal-documents/2025/form-III/form-III_page-0001.jpg',
+  //       href: '/legal-documents/2025/form-III.pdf',
+  //     },
+  //   ],
+  // },
 ];
 
 const stats = [
-  { label: 'Official Sections', value: '03', icon: Layers3 },
-  { label: 'Attachment Cards', value: '09', icon: FileCheck2 },
+  { label: 'Official Sections', value: '05', icon: Layers3 },
+  { label: 'Attachment Cards', value: '15', icon: FileCheck2 },
   { label: 'Access', value: 'Documents Ready', icon: BadgeCheck },
 ];
 
@@ -183,14 +243,14 @@ function DocumentSection({ section, index }) {
   );
 }
 
-export default function Hajj2026LegalAttachments() {
+export default function Hajj2024LegalAttachments() {
   return (
     <>
       <Head>
-        <title>SECP Hajj 2026 Legal Attachments | Al Mashood Munazzam</title>
+        <title>SECP Hajj 2024 Legal Attachments | Al Mashood Munazzam</title>
         <meta
           name="description"
-          content="MORA, Association, and HOAP legal attachments for Al Mashood Munazzam Pvt Ltd Hajj 2026."
+          content="MORA, Association, and HOAP legal attachments for Al Mashood Munazzam Pvt Ltd Hajj 2024."
         />
       </Head>
 
@@ -203,10 +263,10 @@ export default function Hajj2026LegalAttachments() {
                   SECP Legal Attachments
                 </p>
                 <h1 className="bg-gradient-to-r from-[#ce9733] to-[#8a641f] bg-clip-text text-4xl font-bold leading-tight text-transparent md:text-5xl">
-                  Hajj 2026 Official Legal Records
+                  Hajj 2024 Official Legal Records
                 </h1>
                 <p className="mt-6 text-base leading-8 text-slate-600">
-                  A refined public archive for official Hajj 2026 attachments, arranged by Ministry of Religious Affairs, Association documents, and HOAP records for clear review and direct document access.
+                  A refined public archive for official Hajj 2024 attachments, arranged by Ministry of Religious Affairs, Association documents, and HOAP records for clear review and direct document access.
                 </p>
 
                 <div className="mt-8 grid gap-4 sm:grid-cols-3">
