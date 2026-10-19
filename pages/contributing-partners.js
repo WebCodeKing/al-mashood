@@ -142,9 +142,9 @@ const ContributingPartners = () => {
                 <th scope="col" className="px-6 py-3">
                   Address
                 </th>
-                <th scope="col" className="px-6 py-3">
+                {/* <th scope="col" className="px-6 py-3">
                   Website
-                </th>
+                </th> */}
                 {/* <th scope="col" className="px-6 py-3 whitespace-nowrap">
                   Hajj Package
                 </th> */}
@@ -187,14 +187,14 @@ const ContributingPartners = () => {
                   <br /> Police Foundation, Islamabad
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="http://www.karwaneshahzeb.com/"
                     target="_blank"
                     rel="noopener noreferrer">
                     karwaneshahzeb.com
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -235,14 +235,14 @@ const ContributingPartners = () => {
                   <br /> Chandni Chowk Rawalpindi
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="http://allah-u-akbar.net/"
                     target="_blank"
                     rel="noopener noreferrer">
                     allah-u-akbar.net
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -283,14 +283,14 @@ const ContributingPartners = () => {
                   <br /> Chandni Chowk Rawalpindi
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="http://karwangroup.net/"
                     target="_blank"
                     rel="noopener noreferrer">
                     karwangroup.net
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -331,11 +331,11 @@ const ContributingPartners = () => {
                   <br /> Service Road, I-8/4 Extension, Islambad.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                 <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.meraj.iqbalgroup.biz" target="_blank" rel="noopener noreferrer">
                   meraj.iqbalgroup.biz
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -377,11 +377,11 @@ const ContributingPartners = () => {
                   <br /> Phase 7, Bahria Town Rawalpindi
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                 <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.dar-ul-ateeq.com" target="_blank" rel="noopener noreferrer">
                   dar-ul-ateeq.com
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -422,11 +422,11 @@ const ContributingPartners = () => {
                   <br /> Chaklalah Rawalpind
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                 <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="http://qafla-e-madienah.com" target="_blank" rel="noopener noreferrer">
                   qafla-e-madienah.com
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -468,14 +468,14 @@ const ContributingPartners = () => {
                   <br /> Rawalpindi.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="https://www.multifaithint.com.pk"
                     target="_blank"
                     rel="noopener noreferrer">
                     multifaithint.com.pk
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="/packages/hajj-package/2025/22-multi-faith-international.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
                 </td> */}
@@ -516,14 +516,14 @@ const ContributingPartners = () => {
                   <br /> Chandani Chowk,Rawalpindi
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="https://www.baitullahtours.com.pk/"
                     target="_blank"
                     rel="noopener noreferrer">
                     baitullahtours.com.pk
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                 <a href="/packages/hajj-package/2025/6-bait-ullah-tours.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
                 </td> */}
@@ -563,9 +563,9 @@ const ContributingPartners = () => {
                   Aftab Center 30 Davis Road Lahore.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -607,14 +607,14 @@ const ContributingPartners = () => {
                   <br /> Hotel, Blue Area, Islamabad
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="https://www.galaxyhajj.com.pk"
                     target="_blank"
                     rel="noopener noreferrer">
                     galaxyhajj.com.pk
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="/packages/hajj-package/2025/12-galaxy-hajj-and-umrah-services.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
                 </td> */}
@@ -656,9 +656,9 @@ const ContributingPartners = () => {
                   <br /> Road, Rawalpindi
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -700,9 +700,9 @@ const ContributingPartners = () => {
                   <br /> Blue Area Islamabad.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -743,9 +743,9 @@ const ContributingPartners = () => {
                   <br /> Taxi Stand Sargodha Pakistan.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -786,9 +786,9 @@ const ContributingPartners = () => {
                   <br /> Taxi Stand Sargodha.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -829,9 +829,9 @@ const ContributingPartners = () => {
                   <br />Opposite Maula Bakhsh Hospital,
                   <br /> Noori Gate Sargodha.
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -872,9 +872,9 @@ const ContributingPartners = () => {
                   <br /> Markaz, Islamabad.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -915,9 +915,9 @@ const ContributingPartners = () => {
                   <br /> Road, Blue Area, Islamabad
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -959,9 +959,9 @@ const ContributingPartners = () => {
                   <br /> Road Mirpur Azad Kashmir
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1003,9 +1003,9 @@ const ContributingPartners = () => {
                   <br /> Rawalpindi.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1047,9 +1047,9 @@ const ContributingPartners = () => {
                   <br /> Rawalpindi
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1091,11 +1091,11 @@ const ContributingPartners = () => {
                   <br /> Chowk, Murree Road, Rawalpindi.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://www.alfurqaninternational.com" target="_blank" rel="noopener noreferrer">
                     alfurqaninternational.com
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1135,9 +1135,9 @@ const ContributingPartners = () => {
                   East Circular Road Dera Ismail Khan
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1178,9 +1178,9 @@ const ContributingPartners = () => {
                   <br /> 46- Empress Road, Lahore.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1221,9 +1221,9 @@ const ContributingPartners = () => {
                   <br /> Plot No. 13, I-8 Markaz. Islamabad
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1264,9 +1264,9 @@ const ContributingPartners = () => {
                   <br /> Lahore
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1307,9 +1307,9 @@ const ContributingPartners = () => {
                   <br /> 11-Abbot Road, Lahore
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1355,9 +1355,9 @@ const ContributingPartners = () => {
                   <br /> Lahore
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1398,9 +1398,9 @@ const ContributingPartners = () => {
                   <br /> Rah-E-Aziz, Jhelum Cantt.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1441,14 +1441,14 @@ const ContributingPartners = () => {
                   <br /> Road, Lahore.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="https://panislamic.com.pk"
                     target="_blank"
                     rel="noopener noreferrer">
                     panislamic.com.pk
                   </a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="/packages/hajj-package/2025/23-pan-islamic.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Open</a>
                 </td> */}
@@ -1492,9 +1492,9 @@ const ContributingPartners = () => {
                   <br /> Gulberg Iii Lahore
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1536,9 +1536,9 @@ const ContributingPartners = () => {
                    KMCH Society, Karachi-75300.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1579,9 +1579,9 @@ const ContributingPartners = () => {
                    Pan House, Hirabad, Hyderabad
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}
@@ -1622,9 +1622,9 @@ const ContributingPartners = () => {
                    Road, Shahrah-e-Liaquat, Karachi.
 
                 </td>
-                <td className="px-6 py-4">
+                {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
-                </td>
+                </td> */}
                 {/* <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td> */}

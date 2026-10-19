@@ -38,9 +38,9 @@ export default function Hajj2027() {
                 <th scope="col" className="px-6 py-3">
                   Address
                 </th> */}
-                {/* <th scope="col" className="px-6 py-3">
+                <th scope="col" className="px-6 py-3">
                   Hujjaj List
-                </th> */}
+                </th>
                 <th scope="col" className="px-6 py-3 whitespace-nowrap">
                   Hajj Package
                 </th>
@@ -83,14 +83,14 @@ export default function Hajj2027() {
                   <br /> Police Foundation, Islamabad
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="/hajj-operations/2026/1-karwan-e-shahzeb-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/1-karwan-e-shahzeb-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -131,14 +131,14 @@ export default function Hajj2027() {
                   <br /> Chandni Chowk Rawalpindi
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="/hajj-operations/2026/2-allah-u-akbar-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/2-allah-u-akbar-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -179,14 +179,14 @@ export default function Hajj2027() {
                   <br /> Chandni Chowk Rawalpindi
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="/hajj-operations/2026/3-karwan-e-taibba-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/3-karwan-e-taibba-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -227,11 +227,11 @@ export default function Hajj2027() {
                   <br /> Service Road, I-8/4 Extension, Islambad.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                 <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/meraj-un-nabi-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
                   
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/4-meraj-un-nabi-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -273,11 +273,11 @@ export default function Hajj2027() {
                   <br /> Phase 7, Bahria Town Rawalpindi
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                 <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/5-dar-ul-ateeq-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
-                  View List
+                  
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/5-dar-ul-ateeq-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
@@ -318,11 +318,11 @@ export default function Hajj2027() {
                   <br /> Chaklalah Rawalpind
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                 <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/6-qafla-e-madienah-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
-                  View List
+                  
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/6-qafla-e-madienah-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
@@ -364,14 +364,14 @@ export default function Hajj2027() {
                   <br /> Rawalpindi.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="/hajj-operations/2026/7-multi-faith-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/7-multi-faith-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -412,14 +412,14 @@ export default function Hajj2027() {
                   <br /> Chandani Chowk,Rawalpindi
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="/hajj-operations/2026/8-bait-ullah-tours-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                 <a href="/hajj-operations/2027/8-bait-ullah-tours-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -459,9 +459,9 @@ export default function Hajj2027() {
                   Aftab Center 30 Davis Road Lahore.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/9-karwan-e-hermain-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/9-karwan-e-hermain-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/9-karwan-e-hermain-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -503,14 +503,14 @@ export default function Hajj2027() {
                   <br /> Hotel, Blue Area, Islamabad
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="/hajj-operations/2026/10-galaxy-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/10-galaxy-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -552,9 +552,9 @@ export default function Hajj2027() {
                   <br /> Road, Rawalpindi
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/11-deedar-e-rahamat-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/11-deedar-e-rahamat-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/11-deedar-e-rahamat-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -596,9 +596,9 @@ export default function Hajj2027() {
                   <br /> Blue Area Islamabad.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/12-h.-naseem-hassan-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/12-h.-naseem-hassan-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/12-h.-naseem-hassan-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -639,9 +639,9 @@ export default function Hajj2027() {
                   <br /> Taxi Stand Sargodha Pakistan.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/13-lala-gi-tours-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/13-lala-gi-tours-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/13-lala-gi-tours-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -682,9 +682,9 @@ export default function Hajj2027() {
                   <br /> Taxi Stand Sargodha.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/14-tauheed-enterprises-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/14-tauheed-enterprises-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/14-tauheed-enterprises-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -725,9 +725,9 @@ export default function Hajj2027() {
                   <br />Opposite Maula Bakhsh Hospital,
                   <br /> Noori Gate Sargodha.
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/15-abbas-tours-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/15-abbas-tours-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/15-abbas-tours-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -768,9 +768,9 @@ export default function Hajj2027() {
                   <br /> Markaz, Islamabad.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/16-7-seas-hajjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/16-7-seas-hajjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/16-7seas-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -811,9 +811,9 @@ export default function Hajj2027() {
                   <br /> Road, Blue Area, Islamabad
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/17-zam-zam-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/17-zam-zam-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/17-zam-zam-group-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -855,9 +855,9 @@ export default function Hajj2027() {
                   <br /> Road Mirpur Azad Kashmir
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/18-karwan-e-sultania-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/18-karwan-e-sultania-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/18-karwan-e-sultania-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -899,9 +899,9 @@ export default function Hajj2027() {
                   <br /> Rawalpindi.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/19-carvan-e-azmat-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/19-carvan-e-azmat-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/19-carvan-e-azmat-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
@@ -943,9 +943,9 @@ export default function Hajj2027() {
                   <br /> Rawalpindi
 
                 </td> */}
-                {/* <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/20-carvan-e-yousaf-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View List</a>
-                </td> */}
+                <td className="px-6 py-4">
+                  <a href="/hajj-operations/2026/20-carvan-e-yousaf-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/20-carvan-e-yousaf-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
@@ -987,11 +987,11 @@ export default function Hajj2027() {
                   <br /> Chowk, Murree Road, Rawalpindi.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/21-al-furqan-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/21-al-furqan-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">View Package</a>
                 </td>
@@ -1031,11 +1031,11 @@ export default function Hajj2027() {
                   East Circular Road Dera Ismail Khan
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/22-taiba-haramayn-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/22-taiba-haramayn-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1078,11 +1078,11 @@ export default function Hajj2027() {
                   <br /> 46- Empress Road, Lahore.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/23-arab-on-line-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/23-arab-on-line-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1126,11 +1126,11 @@ export default function Hajj2027() {
                   <br /> Lahore
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/25-karwan-e-zaitoon-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/25-karwan-e-zaitoon-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     
@@ -1173,11 +1173,11 @@ export default function Hajj2027() {
                   <br /> 11-Abbot Road, Lahore
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/26-mayfair-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/25-mayfair-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1225,11 +1225,11 @@ export default function Hajj2027() {
                   <br /> Lahore
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/27-faqeerullah-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/26-faqeerullah-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1272,11 +1272,11 @@ export default function Hajj2027() {
                   <br /> Rah-E-Aziz, Jhelum Cantt.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/28-s.g-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/27-s.g-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1319,14 +1319,14 @@ export default function Hajj2027() {
                   <br /> Road, Lahore.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                     href="/hajj-operations/2026/29-pan-islamic-hujjaj-list.pdf"
                     target="_blank"
                     rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/28-pan-islamic-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1372,11 +1372,11 @@ export default function Hajj2027() {
                   <br /> Gulberg Iii Lahore
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/30-safina-e-haram-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/29-safina-e-haram-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1419,11 +1419,11 @@ export default function Hajj2027() {
                   <br /> Plot No. 13, I-8 Markaz. Islamabad
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/24-al-tehamah-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/24-al-tehamah-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1467,11 +1467,11 @@ export default function Hajj2027() {
                    KMCH Society, Karachi-75300.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/31-allamah-banori-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/31-allamah-banori-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1514,11 +1514,11 @@ export default function Hajj2027() {
                    Pan House, Hirabad, Hyderabad
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/32-saleem-akhtar-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2027/32-saleem-akhtar-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     View Package
@@ -1561,11 +1561,11 @@ export default function Hajj2027() {
                    Road, Shahrah-e-Liaquat, Karachi.
 
                 </td> */}
-                {/* <td className="px-6 py-4">
+                <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/33-labbaik-e-haram-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    View List
+                    
                   </a>
-                </td> */}
+                </td>
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/33-labbaik-e-haram-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
                     

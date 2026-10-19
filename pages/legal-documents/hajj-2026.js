@@ -14,6 +14,33 @@ import {
 
 const documentSections = [
   {
+    id: 'mora',
+    title: 'Ministry of Hajj and Umrah - Saudi Arabia',
+    shortTitle: 'MORA',
+    description: 'Ministry recognition, approval, and compliance attachments for Hajj 2026.',
+    icon: Landmark,
+    documents: [
+      {
+        title: 'Recognition Letter',
+        description: 'Official ministry recognition attachment.',
+        preview: '/legal-documents/2026/recognition-letter-2026_page-0001.jpg',
+        href: '/legal-documents/2026/recognition-letter-2026.pdf',
+      },
+      {
+        title: 'Munazzam Card',
+        description: 'Official card issued to eligible pilgrims.',
+        preview: '/legal-documents/2026/munazzam-card-2026.jpeg',
+        href: '/legal-documents/2026/munazzam-card-2026.pdf',
+      },
+      // {
+      //   title: 'Compliance Attachment',
+      //   description: 'Additional MORA compliance record for public reference.',
+      //   preview: '/legal-documents/2026/form-III/form-III_page-0001.jpg',
+      //   href: '/legal-documents/2026/form-III.pdf',
+      // },
+    ],
+  },
+  {
     id: 'secp',
     title: 'SECP Documents',
     shortTitle: 'SECP',
@@ -74,33 +101,6 @@ const documentSections = [
         preview: '/legal-documents/2026/moa_page-0001.jpg',
         href: '/legal-documents/2026/moa.pdf',
       },
-    ],
-  },
-  {
-    id: 'mora',
-    title: 'Ministry of Religious Affairs',
-    shortTitle: 'MORA',
-    description: 'Ministry recognition, approval, and compliance attachments for Hajj 2026.',
-    icon: Landmark,
-    documents: [
-      {
-        title: 'Recognition Letter',
-        description: 'Official ministry recognition attachment.',
-        preview: '/legal-documents/2026/recognition-letter-2026_page-0001.jpg',
-        href: '/legal-documents/2026/recognition-letter-2026.pdf',
-      },
-      // {
-      //   title: 'Approval Attachment',
-      //   description: 'Supporting approval or ministry correspondence.',
-      //   preview: '/legal-documents/2026/CTC OF INC. FORM-II_Page_1.jpg',
-      //   href: '/legal-documents/2026/CTC OF INC. FORM-II.pdf',
-      // },
-      // {
-      //   title: 'Compliance Attachment',
-      //   description: 'Additional MORA compliance record for public reference.',
-      //   preview: '/legal-documents/2026/form-III/form-III_page-0001.jpg',
-      //   href: '/legal-documents/2026/form-III.pdf',
-      // },
     ],
   },
   {

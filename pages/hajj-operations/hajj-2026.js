@@ -228,8 +228,8 @@ export default function Hajj2026() {
 
                 </td> */}
                 <td className="px-6 py-4">
-                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/meraj-un-nabi-hujjaj-list.pdf" target="_blank" rel="noopener noreferrer">
-                  
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="/hajj-operations/2026/4-meraj-un-nabi-hajj-list-2026.pdf" target="_blank" rel="noopener noreferrer">
+                  View List
                   </a>
                 </td>
                 <td className="px-6 py-4">

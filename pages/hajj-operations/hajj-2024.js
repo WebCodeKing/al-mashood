@@ -64,7 +64,7 @@ export default function Hajj2024() {
                   Karwan-E-Shahzeb Hajj & Umrah Services (Pvt) Ltd
                 </td>
                 <td className="px-6 py-4 font-bold">
-                  
+                  101
                 </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Mubashar Ali
@@ -112,7 +112,7 @@ export default function Hajj2024() {
                   Allah-U-Akbar Hajj & Umrah Services (Pvt) Ltd
                 </td>
                 <td className="px-6 py-4 font-bold">
-                  
+                  101
                 </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Abbas Ali
@@ -160,7 +160,7 @@ export default function Hajj2024() {
                   Karwan-E-Taibba (Pvt) Ltd
                 </td>
                 <td className="px-6 py-4 font-bold">
-                  
+                  49
                 </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Muhammad Ayaz Tariq
@@ -208,7 +208,7 @@ export default function Hajj2024() {
                   Meraj Un Nabi Travels (Pvt) Ltd.
                 </td>
                 <td className="px-6 py-4 font-bold">
-                  
+                  101
                 </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Waseem Iqbal
@@ -253,7 +253,7 @@ export default function Hajj2024() {
                   Dar Ul Ateeq (Pvt) Ltd.
                 </td>
                 <td className="px-6 py-4 font-bold">
-                  
+                  49
                 </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Arshad Mahmood
@@ -299,7 +299,7 @@ export default function Hajj2024() {
                   Qafla-e-Madienah Hajj Umrah Services (Pvt) Ltd.
                 </td>
                 <td className="px-6 py-4 font-bold">
-                  
+                  49
                 </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Munir Ahmed
@@ -344,7 +344,7 @@ export default function Hajj2024() {
                   Multi Faith International (Pvt) Ltd.
                 </td>
                 <td className="px-6 py-4 font-bold">
-                  
+                  101
                 </td>
                 {/* <td className="px-6 py-4 whitespace-nowrap">
                   Zia Masoud Ahmed Toor
@@ -376,7 +376,7 @@ export default function Hajj2024() {
                   <a href="/hajj-operations/2026/7-multi-faith-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
               </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -423,8 +423,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                 <a href="/packages/hajj-package/2025/6-bait-ullah-tours.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -465,8 +465,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/9-karwan-e-hermain-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -514,8 +514,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/10-galaxy-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -558,8 +558,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/11-deedar-e-rahamat-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -602,8 +602,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/12-h.-naseem-hassan-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -645,8 +645,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/13-lala-gi-tours-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -688,8 +688,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/14-tauheed-enterprises-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -731,8 +731,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/15-abbas-tours-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -774,8 +774,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/16-7-seas-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -817,8 +817,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/17-zam-zam-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -861,8 +861,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/18-karwan-e-sultania-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -905,8 +905,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/19-carvan-e-azmat-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -949,8 +949,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/20-carvan-e-yousaf-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -995,8 +995,8 @@ export default function Hajj2024() {
                 <td className="px-6 py-4">
                   <a href="/hajj-operations/2026/21-al-furqan-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1041,8 +1041,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1088,8 +1088,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1135,8 +1135,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1182,8 +1182,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1229,12 +1229,12 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
+              </tr>}
               
               
               
               
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1281,8 +1281,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1328,8 +1328,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1378,11 +1378,11 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
+              </tr>}
               
               
               
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1428,8 +1428,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1476,8 +1476,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1523,8 +1523,8 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
-              <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+              </tr>}
+              {false && <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
                 {/* <td className="w-4 p-4">
                     <div className="flex items-center">
                         <input id="checkbox-table-1" type="checkbox" className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 dark:focus:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
@@ -1570,7 +1570,7 @@ export default function Hajj2024() {
                     
                   </a>
                 </td>
-              </tr>
+              </tr>}
 
             </tbody>
           </table>

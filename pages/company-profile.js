@@ -384,7 +384,7 @@ const CompanyProfile = () => {
 
   </div>
 </section> */}
-<section className="max-w-[95%] md:max-w-[85%] mx-auto p-6 sm:p-10 md:p-14 rounded-[2rem] my-20 md:my-24 bg-gradient-to-b from-[#fcfaf5] to-white border border-[#ce9733]/20 shadow-[0_24px_70px_rgba(138,100,31,0.10)]">
+{/* <section className="max-w-[95%] md:max-w-[85%] mx-auto p-6 sm:p-10 md:p-14 rounded-[2rem] my-20 md:my-24 bg-gradient-to-b from-[#fcfaf5] to-white border border-[#ce9733]/20 shadow-[0_24px_70px_rgba(138,100,31,0.10)]">
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-[#ce9733] to-[#8a641f] bg-clip-text text-transparent">
@@ -422,11 +422,11 @@ const CompanyProfile = () => {
                           <div className="space-y-1">
                             <p>
                               <span className="text-slate-500"></span> +92 321 5168550
-                            </p>
+                            </p> */}
                             {/* <p>
                               <span className="text-slate-500">Phone 2:</span> +92 345 8668015
                             </p> */}
-                          </div>
+                          {/* </div>
                         </div>
                         <p className="flex items-start gap-2 break-all">
                           <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
@@ -456,11 +456,11 @@ const CompanyProfile = () => {
                           <div className="space-y-1">
                             <p>
                               <span className="text-slate-500"></span> +92 332 1441244
-                            </p>
+                            </p> */}
                             {/* <p>
                               <span className="text-slate-500">Phone 2:</span> +385 91 603 6177
                             </p> */}
-                          </div>
+                          {/* </div>
                         </div>
                         <p className="flex items-start gap-2 break-all">
                           <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
@@ -551,7 +551,7 @@ const CompanyProfile = () => {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
 <section className="py-20 bg-gray-50">
   <div className="max-w-6xl mx-auto px-6">
     
