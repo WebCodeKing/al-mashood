@@ -384,60 +384,60 @@ const CompanyProfile = () => {
 
   </div>
 </section> */}
-{/* <section className="max-w-[95%] md:max-w-[85%] mx-auto p-6 sm:p-10 md:p-14 rounded-[2rem] my-20 md:my-24 bg-gradient-to-b from-[#fcfaf5] to-white border border-[#ce9733]/20 shadow-[0_24px_70px_rgba(138,100,31,0.10)]">
+<section className="max-w-[95%] md:max-w-[85%] mx-auto p-6 sm:p-10 md:p-14 rounded-[2rem] my-20 md:my-24 bg-gradient-to-b from-[#fcfaf5] to-white border border-[#ce9733]/20 shadow-[0_24px_70px_rgba(138,100,31,0.10)]">
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-[#ce9733] to-[#8a641f] bg-clip-text text-transparent">
-                Leadership Contacts
+                Leadership & Management
               </h2>
               <p className="text-slate-600 mt-4 max-w-2xl mx-auto leading-relaxed">
-                Meet the team coordinating Hajj and Umrah services, pilgrim guidance, and support across our offices.
+                Our leadership team combines strong industry knowledge and operational expertise. Each member is committed to ensuring a smooth, reliable, and high-quality pilgrimage experience through our network of 33 Hajj companies.
               </p>
             </div>
 
             <div className="space-y-10">
-              <div className="rounded-[30px] border border-[#ce9733]/20 bg-white/80 p-6 md:p-8 shadow-sm">
+              <div className="rounded-[30px] border border-[#ce9733]/20 bg-white/80 p-6 md:p-8 shadow-sm flex flex-col items-center">
                 <div className="mb-8 flex flex-col items-center gap-4 md:flex-row md:items-center">
-                  <h3 className='text-center md:text-left text-2xl font-bold text-[#8a641f]'>Islamabad Office</h3>
+                  <h3 className='text-center md:text-left text-2xl font-bold text-[#8a641f]'>Chief Executive Officer</h3>
                   <div className="hidden h-px flex-1 bg-gradient-to-r from-[#ce9733]/60 via-[#ce9733]/20 to-transparent md:block"></div>
                 </div>
 
-                <div className="grid md:grid-cols-2 gap-8">
+                <div className="grid md:grid-cols-1 gap-8">
                   <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
                     <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#ce9733]/70 to-[#8a641f]/70 p-[2px] overflow-hidden shrink-0">
                       <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
                         <img
-                          src="/company-profile/waseem-iqbal.jpeg"
+                          src="/company-profile/tariq-javed.jpeg"
                           alt="Ayaz Ahmad Saith"
                           className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
                         />
                       </div>
                     </div>
                     <div className="flex flex-1 flex-col justify-center">
-                      <h3 className="text-xl font-semibold text-slate-900">Waseem Iqabl</h3>
+                      <h3 className="text-xl font-semibold text-slate-900">Tariq Javed</h3>
                       <p className="text-[#8a641f] font-medium">CEO</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
                           <div className="space-y-1">
                             <p>
-                              <span className="text-slate-500"></span> +92 321 5168550
-                            </p> */}
+                              <span className="text-slate-500"></span> +92 300 5248461
+                            </p>
                             {/* <p>
                               <span className="text-slate-500">Phone 2:</span> +92 345 8668015
                             </p> */}
-                          {/* </div>
+                          </div>
                         </div>
                         <p className="flex items-start gap-2 break-all">
                           <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
                           <span>almashood2024@gmail.com</span>
                         </p>
                       </div>
-                      <p className="mt-4 text-slate-600 text-sm font-bold">Office: Islamabad</p>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office: Office No. 4 First Floor Al Mustafa Plaza, <br />Chandni Chowk Rawalpindi</p>
                     </div>
                   </div>
 
-                  <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
+                  {/* <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
                     <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#8a641f]/70 to-[#ce9733]/70 p-[2px] overflow-hidden shrink-0">
                       <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
                         <img
@@ -469,13 +469,13 @@ const CompanyProfile = () => {
                       </div>
                       <p className="mt-4 text-slate-600 text-sm font-bold">Office: Islamabad</p>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
 
               <div className="rounded-[30px] border border-[#ce9733]/20 bg-white/80 p-6 md:p-8 shadow-sm">
                 <div className="mb-8 flex flex-col items-center gap-4 md:flex-row md:items-center">
-                  <h3 className='text-center md:text-left text-2xl font-bold text-[#8a641f]'>Rawalpindi Office</h3>
+                  <h3 className='text-center md:text-left text-2xl font-bold text-[#8a641f]'>Directors</h3>
                   <div className="hidden h-px flex-1 bg-gradient-to-r from-[#ce9733]/60 via-[#ce9733]/20 to-transparent md:block"></div>
                 </div>
 
@@ -484,33 +484,33 @@ const CompanyProfile = () => {
                     <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#ce9733]/70 to-[#8a641f]/70 p-[2px] overflow-hidden shrink-0">
                       <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
                         <img
-                          src="/company-profile/ayaz.jpeg"
+                          src="/company-profile/abbas-ali.jpeg"
                           alt="Ayaz Ahmad Saith"
                           className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
                         />
                       </div>
                     </div>
                     <div className="flex flex-1 flex-col justify-center">
-                      <h3 className="text-xl font-semibold text-slate-900">Ayaz Ahmad Saith</h3>
+                      <h3 className="text-xl font-semibold text-slate-900">Abbas Ali</h3>
                       <p className="text-[#8a641f] font-medium">Managing Director</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
                           <div className="space-y-1">
                             <p>
-                              <span className="text-slate-500">Phone 1:</span> +92 313 8668015
+                              <span className="text-slate-500">Phone 1:</span> +92 334 5077554
                             </p>
-                            <p>
+                            {/* <p>
                               <span className="text-slate-500">Phone 2:</span> +92 345 8668015
-                            </p>
+                            </p> */}
                           </div>
                         </div>
                         <p className="flex items-start gap-2 break-all">
                           <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
-                          <span>almashood2024@gmail.com</span>
+                          <span>allah_u_akbar2194@hotmail.com</span>
                         </p>
                       </div>
-                      <p className="mt-4 text-slate-600 text-sm font-bold">Office: Rawalpindi</p>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office: Office No. 5, First Floor Al-Mustafa Plaza Chandni chowk Muree Road Rawalpindi.</p>
                     </div>
                   </div>
 
@@ -518,40 +518,172 @@ const CompanyProfile = () => {
                     <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#8a641f]/70 to-[#ce9733]/70 p-[2px] overflow-hidden shrink-0">
                       <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
                         <img
-                          src="/company-profile/ulfat.jpeg"
+                          src="/company-profile/muhammad-ayaz-tariq.jpeg"
                           alt="Saad Raza"
                           className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
                         />
                       </div>
                     </div>
                     <div className="flex flex-1 flex-col justify-center">
-                      <h3 className="text-xl font-semibold text-slate-900">Ulfat Iqbal</h3>
+                      <h3 className="text-xl font-semibold text-slate-900">Muhammad Ayaz Tariq</h3>
                       <p className="text-[#8a641f] font-medium">Managing Director</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
                           <div className="space-y-1">
                             <p>
-                              <span className="text-slate-500">Phone 1:</span> +92 304 6423365
+                              <span className="text-slate-500">Phone 1:</span> +92 334 7771056
                             </p>
-                            <p>
+                            {/* <p>
                               <span className="text-slate-500">Phone 2:</span> +385 91 603 6177
-                            </p>
+                            </p> */}
                           </div>
                         </div>
                         <p className="flex items-start gap-2 break-all">
                           <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
-                          <span>almashood2024@gmail.com</span>
+                          <span>karvan_e_taibba@hotmail.com</span>
                         </p>
                       </div>
-                      <p className="mt-4 text-slate-600 text-sm font-bold">Office: Rawalpindi</p>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office: Office No. 4, 1st Floor, Al-Mustafa Plaza, Chandni Chowk, Rawalpindi, Pakistan</p>
+                    </div>
+                  </div>
+                  <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
+                    <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#8a641f]/70 to-[#ce9733]/70 p-[2px] overflow-hidden shrink-0">
+                      <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
+                        <img
+                          src="/company-profile/waseem-iqbal.jpeg"
+                          alt="Saad Raza"
+                          className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
+                        />
+                      </div>
+                    </div>
+                    <div className="flex flex-1 flex-col justify-center">
+                      <h3 className="text-xl font-semibold text-slate-900">Waseem Iqbal</h3>
+                      <p className="text-[#8a641f] font-medium">Managing Director</p>
+                      <div className="mt-4 space-y-2 text-slate-600 text-sm">
+                        <div className="flex items-start gap-2">
+                          <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <div className="space-y-1">
+                            <p>
+                              <span className="text-slate-500">Phone 1:</span> +92 321 5168550
+                            </p>
+                            {/* <p>
+                              <span className="text-slate-500">Phone 2:</span> +385 91 603 6177
+                            </p> */}
+                          </div>
+                        </div>
+                        <p className="flex items-start gap-2 break-all">
+                          <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <span>waseem.iqbal@iqbalgroup.biz</span>
+                        </p>
+                      </div>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">2nd Floor, Iqbal Group Building, 1-Main Service Road, I-8/4 Extension, Islambad.</p>
+                    </div>
+                  </div>
+                  <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
+                    <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#8a641f]/70 to-[#ce9733]/70 p-[2px] overflow-hidden shrink-0">
+                      <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
+                        <img
+                          src="/company-profile/arshad-mahmood.jpg"
+                          alt="Saad Raza"
+                          className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
+                        />
+                      </div>
+                    </div>
+                    <div className="flex flex-1 flex-col justify-center">
+                      <h3 className="text-xl font-semibold text-slate-900">Arshad Mahmood</h3>
+                      <p className="text-[#8a641f] font-medium">Managing Director</p>
+                      <div className="mt-4 space-y-2 text-slate-600 text-sm">
+                        <div className="flex items-start gap-2">
+                          <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <div className="space-y-1">
+                            <p>
+                              <span className="text-slate-500">Phone 1:</span> +92 300 8555534
+                            </p>
+                            {/* <p>
+                              <span className="text-slate-500">Phone 2:</span> +385 91 603 6177
+                            </p> */}
+                          </div>
+                        </div>
+                        <p className="flex items-start gap-2 break-all">
+                          <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <span>darulateeq@gmail.com</span>
+                        </p>
+                      </div>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office No 3, 1st Floor Zenith Plaza, Mini Extension, Bahria Town Phase 7, Rawalpindi</p>
+                    </div>
+                  </div>
+                  <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
+                    <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#8a641f]/70 to-[#ce9733]/70 p-[2px] overflow-hidden shrink-0">
+                      <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
+                        <img
+                          src="/company-profile/munir-ahmed.jpg"
+                          alt="Saad Raza"
+                          className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
+                        />
+                      </div>
+                    </div>
+                    <div className="flex flex-1 flex-col justify-center">
+                      <h3 className="text-xl font-semibold text-slate-900">Munir Ahmed</h3>
+                      <p className="text-[#8a641f] font-medium">Managing Director</p>
+                      <div className="mt-4 space-y-2 text-slate-600 text-sm">
+                        <div className="flex items-start gap-2">
+                          <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <div className="space-y-1">
+                            <p>
+                              <span className="text-slate-500">Phone 1:</span> +92 333 5169092
+                            </p>
+                            {/* <p>
+                              <span className="text-slate-500">Phone 2:</span> +385 91 603 6177
+                            </p> */}
+                          </div>
+                        </div>
+                        <p className="flex items-start gap-2 break-all">
+                          <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <span>qfl2226@hotmail.com</span>
+                        </p>
+                      </div>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office # 1, Ali Market, Plot # 236-B, Railway Scheme 1, Chacklalah Rawalpindi</p>
+                    </div>
+                  </div>
+                  <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
+                    <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#8a641f]/70 to-[#ce9733]/70 p-[2px] overflow-hidden shrink-0">
+                      <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
+                        <img
+                          src="/company-profile/zia-masoud-ahmed-toor.jpeg"
+                          alt="Saad Raza"
+                          className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
+                        />
+                      </div>
+                    </div>
+                    <div className="flex flex-1 flex-col justify-center">
+                      <h3 className="text-xl font-semibold text-slate-900">Zia Masoud Ahmed Toor</h3>
+                      <p className="text-[#8a641f] font-medium">Managing Director</p>
+                      <div className="mt-4 space-y-2 text-slate-600 text-sm">
+                        <div className="flex items-start gap-2">
+                          <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <div className="space-y-1">
+                            <p>
+                              <span className="text-slate-500">Phone 1:</span> +92 321 5163382
+                            </p>
+                            {/* <p>
+                              <span className="text-slate-500">Phone 2:</span> +385 91 603 6177
+                            </p> */}
+                          </div>
+                        </div>
+                        <p className="flex items-start gap-2 break-all">
+                          <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <span>multifaithint@yahoo.com</span>
+                        </p>
+                      </div>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office no.36-A, 2nd Floor Block-2, Services Plaza The Mall Road Saddar Rawalpindi</p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </section> */}
+        </section>
 <section className="py-20 bg-gray-50">
   <div className="max-w-6xl mx-auto px-6">
     

@@ -1132,7 +1132,8 @@ const ContributingPartners = () => {
                   0966-711765
                 </td>
                 <td className="px-6 py- whitespace-nowrap">
-                  East Circular Road Dera Ismail Khan
+                  Office # 23,2nd Floor,Silver City Plaza, <br />Sector G-11 Markaz,Islamabad
+
 
                 </td>
                 {/* <td className="px-6 py-4">
