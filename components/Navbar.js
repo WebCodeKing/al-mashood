@@ -40,6 +40,7 @@ const Navbar = () => {
                     <Link legacyBehavior href="/hajj-operations/hajj-2024"><li className="px-4 py-2 rounded hover:bg-gray-700"><a href="#">Hajj 2024</a></li></Link>
                     <Link legacyBehavior href="/hajj-operations/hajj-2025"><li className="px-4 py-2 rounded hover:bg-gray-700"><a>Hajj 2025</a></li></Link>
                     <Link legacyBehavior href="/hajj-operations/hajj-2026"><li className="px-4 py-2 rounded hover:bg-gray-700"><a>Hajj 2026</a></li></Link>
+                    <Link legacyBehavior href="/hajj-operations/hajj-2027"><li className="px-4 py-2 rounded hover:bg-gray-700"><a>Hajj 2027</a></li></Link>
                     {/* <li className="px-4 py-2 hover:bg-gray-700"><a href="#">Marketing</a></li> */}
                   </ul>
                 </div>
@@ -48,7 +49,7 @@ const Navbar = () => {
               </li></a></Link>
               <li className="relative group">
                 <div className="inline-block">
-                  <a href="#" className="hover:text-gray-300">SECP</a>
+                  <a href="#" className="hover:text-gray-300">Legal Documents</a>
                   <ul className="absolute left-0 mt-1 w-40 bg-black text-white rounded shadow-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
                     <Link legacyBehavior href="/legal-documents/hajj2024"><li className="px-4 py-2 rounded hover:bg-gray-700"><a href="#">Hajj 2024</a></li></Link>
                     <Link legacyBehavior href="/legal-documents/hajj2025"><li className="px-4 py-2 rounded hover:bg-gray-700"><a>Hajj 2025</a></li></Link>
@@ -117,14 +118,15 @@ const Navbar = () => {
               <hr /><Link legacyBehavior href="/hajj-operations/hajj-2024" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px] hover:text-gray-400'>Hajj 2024</li></a></Link><hr />
               <Link legacyBehavior href="/hajj-operations/hajj-2025" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px] hover:text-gray-400'>Hajj 2025</li></a></Link>
               <Link legacyBehavior href="/hajj-operations/hajj-2026" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px] hover:text-gray-400'>Hajj 2026</li></a></Link>
+              <Link legacyBehavior href="/hajj-operations/hajj-2027" onClick={() => setIsMenuOpen(false)}><a><li className='font-bold mt-[16px] hover:text-gray-400'>Hajj 2027</li></a></Link>
             </ul>
           </li><hr />
           <Link legacyBehavior href="/hajj-guides" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Hajj Guides</li></a></Link><hr />
 
-          {/* SECP Mobile Collapsible */}
+          {/* Legal Documents Mobile Collapsible */}
           <li>
             <button onClick={() => setIsDropdownOpen(!isDropdownOpen)} className="w-full text-left flex justify-between items-center font-bold  hover:text-gray-400">
-              SECP
+              Legal Documents
               <span>{isDropdownOpen ? "▲" : "▼"}</span>
             </button>
             <ul className={`mt-2 ml-4 space-y-2 transition-all duration-300 ${isDropdownOpen ? 'block' : 'hidden'}`}>
