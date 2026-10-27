@@ -407,6 +407,82 @@ const CompanyProfile = () => {
                     <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#ce9733]/70 to-[#8a641f]/70 p-[2px] overflow-hidden shrink-0">
                       <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
                         <img
+                          src="/company-profile/nasir-khan.jpeg"
+                          alt="Ayaz Ahmad Saith"
+                          className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
+                        />
+                      </div>
+                    </div>
+                    <div className="flex flex-1 flex-col justify-center">
+                      <h3 className="text-xl font-semibold text-slate-900">Nasir Khan</h3>
+                      <p className="text-[#8a641f] font-medium">CEO</p>
+                      <div className="mt-4 space-y-2 text-slate-600 text-sm">
+                        <div className="flex items-start gap-2">
+                          <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <div className="space-y-1">
+                            <p>
+                              <span className="text-slate-500"></span> +92 333 9227422
+                            </p>
+                            {/* <p>
+                              <span className="text-slate-500">Phone 2:</span> +92 345 8668015
+                            </p> */}
+                          </div>
+                        </div>
+                        <p className="flex items-start gap-2 break-all">
+                          <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <span>sevenseas2102@hotmail.com</span>
+                        </p>
+                      </div>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office No 10 first floor Ahmad centre I-8 Markaz <br />Islamabad</p>
+                    </div>
+                  </div>
+
+                  {/* <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
+                    <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#8a641f]/70 to-[#ce9733]/70 p-[2px] overflow-hidden shrink-0">
+                      <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
+                        <img
+                          src="/company-profile/muhammad-usman.jpeg"
+                          alt="Saad Raza"
+                          className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
+                        />
+                      </div>
+                    </div>
+                    <div className="flex flex-1 flex-col justify-center">
+                      <h3 className="text-xl font-semibold text-slate-900">Muhammad Usman</h3>
+                      <p className="text-[#8a641f] font-medium">Managing Director</p>
+                      <div className="mt-4 space-y-2 text-slate-600 text-sm">
+                        <div className="flex items-start gap-2">
+                          <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <div className="space-y-1">
+                            <p>
+                              <span className="text-slate-500"></span> +92 332 1441244
+                            </p> */}
+                            {/* <p>
+                              <span className="text-slate-500">Phone 2:</span> +385 91 603 6177
+                            </p> */}
+                          {/* </div>
+                        </div>
+                        <p className="flex items-start gap-2 break-all">
+                          <Mail size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
+                          <span>almashood2024@gmail.com</span>
+                        </p>
+                      </div>
+                      <p className="mt-4 text-slate-600 text-sm font-bold">Office: Islamabad</p>
+                    </div>
+                  </div> */}
+                </div>
+              </div>
+              <div className="rounded-[30px] border border-[#ce9733]/20 bg-white/80 p-6 md:p-8 shadow-sm flex flex-col items-center">
+                <div className="mb-8 flex flex-col items-center gap-4 md:flex-row md:items-center">
+                  <h3 className='text-center md:text-left text-2xl font-bold text-[#8a641f]'>Director / Munazzam</h3>
+                  <div className="hidden h-px flex-1 bg-gradient-to-r from-[#ce9733]/60 via-[#ce9733]/20 to-transparent md:block"></div>
+                </div>
+
+                <div className="grid md:grid-cols-1 gap-8">
+                  <div className="flex h-full flex-col sm:flex-row gap-6 rounded-3xl border border-[#ce9733]/20 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-[#ce9733]/50 hover:shadow-lg">
+                    <div className="w-full sm:w-40 max-w-[220px] aspect-[4/5] sm:aspect-square mx-auto sm:mx-0 rounded-3xl bg-gradient-to-br from-[#ce9733]/70 to-[#8a641f]/70 p-[2px] overflow-hidden shrink-0">
+                      <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
+                        <img
                           src="/company-profile/tariq-javed.jpeg"
                           alt="Ayaz Ahmad Saith"
                           className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
@@ -415,7 +491,7 @@ const CompanyProfile = () => {
                     </div>
                     <div className="flex flex-1 flex-col justify-center">
                       <h3 className="text-xl font-semibold text-slate-900">Tariq Javed</h3>
-                      <p className="text-[#8a641f] font-medium">CEO</p>
+                      <p className="text-[#8a641f] font-medium">Director / Munazzam</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
@@ -552,7 +628,7 @@ const CompanyProfile = () => {
                       <div className="w-full h-full rounded-[22px] overflow-hidden bg-black/20">
                         <img
                           src="/company-profile/waseem-iqbal.jpeg"
-                          alt="Saad Raza"
+                          alt="Waseem Iqbal"
                           className="w-full h-full object-cover object-[center_20%] saturate-110 contrast-105"
                         />
                       </div>
