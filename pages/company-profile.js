@@ -12,6 +12,7 @@ import {
   Mail
 } from "lucide-react";
 import Link from 'next/link';
+import BankingDetails from "../components/BankingDetails";
 
 const CompanyProfile = () => {
   return (
@@ -760,6 +761,7 @@ const CompanyProfile = () => {
             </div>
           </div>
         </section>
+        <BankingDetails />
 <section className="py-20 bg-gray-50">
   <div className="max-w-6xl mx-auto px-6">
     
