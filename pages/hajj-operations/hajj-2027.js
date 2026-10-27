@@ -903,7 +903,9 @@ export default function Hajj2027() {
                   <a href="/hajj-operations/2026/19-carvan-e-azmat-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/19-carvan-e-azmat-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2027/19-carvan-e-azmat-hajj-Package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">
+                  View Package
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -947,7 +949,9 @@ export default function Hajj2027() {
                   <a href="/hajj-operations/2026/20-carvan-e-yousaf-hujjaj-list.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/20-carvan-e-yousaf-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2027/20-carvan-e-yousaf-hajj-Package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">
+                  View Package
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
@@ -1567,8 +1571,8 @@ export default function Hajj2027() {
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/33-labbaik-e-haram-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
-                    
+                  <a href="/hajj-operations/2027/33-labbaik-e-haram-hajj-pacakge-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">
+                    View Package
                   </a>
                 </td>
               </tr>
