@@ -293,10 +293,10 @@ export default function BankingDetails() {
     >
       <div className="mx-auto max-w-7xl">
         <div className="mx-auto mb-10 max-w-3xl text-center sm:mb-14">
-          <div className="inline-flex items-center gap-2 rounded-full border border-[#ce9733]/30 bg-white px-4 py-2 text-xs font-bold uppercase tracking-[0.16em] text-[#946512] shadow-sm">
+          {/* <div className="inline-flex items-center gap-2 rounded-full border border-[#ce9733]/30 bg-white px-4 py-2 text-xs font-bold uppercase tracking-[0.16em] text-[#946512] shadow-sm">
             <span className="h-2 w-2 rounded-full bg-[#ce9733]" />
             Corporate Information
-          </div>
+          </div> */}
 
           <h2
             id="banking-heading"
