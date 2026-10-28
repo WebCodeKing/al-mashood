@@ -843,7 +843,7 @@ const CompanyProfile = () => {
                     </div>
                     <div className="flex flex-1 flex-col justify-center">
                       <h3 className="text-xl font-semibold text-slate-900">Chaudhry Asad Iqbal</h3>
-                      <p className="text-[#8a641f] font-medium">Managing Director</p>
+                      <p className="text-[#8a641f] font-medium">Office Administrator</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
@@ -877,7 +877,7 @@ const CompanyProfile = () => {
                     
                     <div className="flex flex-1 flex-col justify-center">
                       <h3 className="text-xl font-semibold text-slate-900">Asad Parvaiz</h3>
-                      <p className="text-[#8a641f] font-medium">Managing Director</p>
+                      <p className="text-[#8a641f] font-medium">Administrative Assistant</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
@@ -910,7 +910,7 @@ const CompanyProfile = () => {
                     </div>
                     <div className="flex flex-1 flex-col justify-center">
                       <h3 className="text-xl font-semibold text-slate-900">Muhammad Kashif</h3>
-                      <p className="text-[#8a641f] font-medium">Office Boy</p>
+                      <p className="text-[#8a641f] font-medium">Office Assistant</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
