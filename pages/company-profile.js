@@ -760,7 +760,7 @@ const CompanyProfile = () => {
               </div>
               <div className="rounded-[30px] border border-[#ce9733]/20 bg-white/80 p-6 md:p-8 shadow-sm">
                 <div className="mb-8 flex flex-col items-center gap-4 md:flex-row md:items-center">
-                  <h3 className='text-center md:text-left text-2xl font-bold text-[#8a641f]'>Office Staff</h3>
+                  <h3 className='text-center md:text-left text-2xl font-bold text-[#8a641f]'>Office Support Staff</h3>
                   <div className="hidden h-px flex-1 bg-gradient-to-r from-[#ce9733]/60 via-[#ce9733]/20 to-transparent md:block"></div>
                 </div>
 
