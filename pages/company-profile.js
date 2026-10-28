@@ -777,7 +777,7 @@ const CompanyProfile = () => {
                     </div>
                     <div className="flex flex-1 flex-col justify-center">
                       <h3 className="text-xl font-semibold text-slate-900">Muhammad Owais Azhar</h3>
-                      <p className="text-[#8a641f] font-medium">Secretary</p>
+                      <p className="text-[#8a641f] font-medium">Company Secretary</p>
                       <div className="mt-4 space-y-2 text-slate-600 text-sm">
                         <div className="flex items-start gap-2">
                           <Phone size={16} className="text-[#ce9733] mt-[2px] shrink-0" />
