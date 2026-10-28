@@ -53,12 +53,12 @@ const documentSections = [
         preview: '/legal-documents/2027/certifiacte-of-incorporation-2027.jpg',
         href: '/legal-documents/2027/certifiacte-of-incorporation-2027.pdf',
       },
-      // {
-      //   title: 'Form A',
-      //   description: 'Company registration particulars and statutory information attachment.',
-      //   preview: '/legal-documents/2026/form-a_page-0001.jpg',
-      //   href: '/legal-documents/2026/form-a.pdf',
-      // },
+      {
+        title: 'Form A',
+        description: 'Company registration particulars and statutory information attachment.',
+        preview: '/legal-documents/2027/form-a-2027-0001.jpg',
+        href: '/legal-documents/2027/form-a-2027.pdf',
+      },
       {
         title: 'Form 9',
         description: 'Company annual return attachment for SECP compliance and public record.',
