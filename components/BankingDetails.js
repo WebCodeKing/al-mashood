@@ -27,7 +27,7 @@ const bankingAccounts = [
     accountNumber: "2001331399",
     accountTitle: "AL MASHOOD MUNAZZAM PVT LTD",
     iban: "PK64SAMB0000002001331399",
-    branch: "Corporate Branch, Rawalpindi",
+    branch: "Saleem Plaza, Jinnah Avenue, Blue Area, Islamabad",
     swift: "SAMBPKKA",
     description:
       "Pakistani Rupee (PKR) account for managing authorized company payments, local banking transactions, and other business-related financial activities.",
@@ -43,7 +43,7 @@ const bankingAccounts = [
     accountNumber: "2001331418",
     accountTitle: "AL MASHOOD MUNAZZAM PVT LTD",
     iban: "PK36SAMB0000002001331418",
-    branch: "Corporate Branch, Rawalpindi",
+    branch: "Saleem Plaza, Jinnah Avenue, Blue Area, Islamabad",
     swift: "SAMBPKKA",
     description:
       "Company account designated for the relevant banking arrangements.",
@@ -59,7 +59,7 @@ const bankingAccounts = [
     accountNumber: "2001331429",
     accountTitle: "AL MASHOOD MUNAZZAM PVT LTD",
     iban: "PK30SAMB0000002001331429",
-    branch: "Main Branch, Rawalpindi",
+    branch: "Saleem Plaza, Jinnah Avenue, Blue Area, Islamabad",
     swift: "SAMBPKKA",
     description:
       "Foreign currency account for authorized US dollar transactions.",
