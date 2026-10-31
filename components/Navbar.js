@@ -108,7 +108,7 @@ const Navbar = () => {
           <Link legacyBehavior href="/" onClick={() => setIsMenuOpen(false)}><a><li className=' hover:text-gray-400 font-bold'>Home</li></a></Link><hr />
           <Link legacyBehavior href="/about" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>About</li></a></Link><hr />
           <Link legacyBehavior href="/company-profile" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Company Profile</li></a></Link><hr />
-          <Link legacyBehavior href="/affiliate-companies" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Contributing Partners</li></a></Link><hr />
+          <Link legacyBehavior href="/contributing-partners" onClick={() => setIsMenuOpen(false)}><a><li className='pt-[16px] font-bold hover:text-gray-400'>Contributing Partners</li></a></Link><hr />
           {/* Hajj Operations Mobile Collapsible */}
           <li>
             <button onClick={() => setIsDropdownOpen(!isDropdownOpen)} className="w-full text-left flex justify-between items-center font-bold  hover:text-gray-400">

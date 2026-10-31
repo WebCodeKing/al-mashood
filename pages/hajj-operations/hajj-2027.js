@@ -324,7 +324,9 @@ export default function Hajj2027() {
                   </a>
                 </td>
                 <td className="px-6 py-4">
-                  <a href="/hajj-operations/2026/6-qafla-e-madienah-hajj-package.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"></a>
+                  <a href="/hajj-operations/2027/6-qafla-e-madienah-hajj-package-2027.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">
+                  View Package
+                  </a>
                 </td>
               </tr>
               <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
