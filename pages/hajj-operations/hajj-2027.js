@@ -1,6 +1,45 @@
 export default function Hajj2027() {
   return <>
-  <div className="flex justify-center">
+  <section className="bg-gradient-to-b from-amber-50 via-white to-white px-4 py-14 sm:px-6 lg:py-20">
+    <div className="mx-auto max-w-5xl">
+      <header className="mx-auto mb-8 max-w-2xl text-center sm:mb-10">
+        <p className="mb-3 text-xs font-bold uppercase tracking-[0.25em] text-amber-700">
+          Hajj Operations · 2027
+        </p>
+        <h1 className="text-3xl font-extrabold tracking-tight text-emerald-950 sm:text-4xl">
+          Hajj 2027 Packages
+        </h1>
+        <p className="mx-auto mt-4 max-w-xl text-sm leading-6 text-slate-600 sm:text-base">
+          Explore the available package options and pricing in our 2027 Hajj guide.
+        </p>
+      </header>
+
+      <figure className="mx-auto max-w-4xl overflow-hidden rounded-2xl border border-amber-200 bg-white p-2 shadow-xl shadow-emerald-950/10 sm:p-3">
+        <div className="relative aspect-[12/13] overflow-hidden rounded-xl bg-gradient-to-br from-emerald-950 via-emerald-900 to-emerald-800">
+          <div className="absolute inset-0 flex flex-col items-center justify-center px-6 text-center text-white">
+            <span className="mb-4 text-4xl text-amber-300" aria-hidden="true">✦</span>
+            <p className="text-xl font-bold sm:text-2xl">Hajj 2027 Package Guide</p>
+            <p className="mt-2 text-sm text-emerald-100">
+              Add your package image at{" "}
+              <span className="font-semibold text-amber-200">/hajj-operations/2027/hajj-packages-2027.jpg</span>
+            </p>
+          </div>
+          <img
+            src="/hajj-operations/2027/mashood-hajj-packages-2027.jpeg"
+            alt="Hajj 2027 package options and pricing"
+            className="absolute inset-0 h-full w-full object-contain"
+            onError={(event) => {
+              event.currentTarget.style.display = "none";
+            }}
+          />
+        </div>
+        <figcaption className="px-3 py-3 text-center text-sm text-slate-500">
+          Al-Mashood Munazzam · Hajj 2027
+        </figcaption>
+      </figure>
+    </div>
+  </section>
+  {false && (<div className="flex justify-center">
   <div className="relative overflow-x-auto shadow-md sm:rounded-lg max-w-[85%] my-[30vh]">
           <table className="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
             <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
@@ -1582,6 +1621,6 @@ export default function Hajj2027() {
             </tbody>
           </table>
         </div>
-        </div>
+        </div>)}
   </>
 }
