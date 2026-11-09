@@ -10,7 +10,7 @@ export default function Hajj2027() {
           Hajj 2027 Packages
         </h1>
         <p className="mx-auto mt-4 max-w-xl text-sm leading-6 text-slate-600 sm:text-base">
-          Explore the available package options and pricing in our 2027 Hajj guide.
+          Explore the comprehensive Hajj 2027 packages offered by Al-Mashood Munazzam, providing detailed information on pricing, accommodations, and services for a spiritually enriching pilgrimage experience.
         </p>
       </header>
 
