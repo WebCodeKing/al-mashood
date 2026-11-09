@@ -3,9 +3,9 @@ export default function Hajj2027() {
   <section className="bg-gradient-to-b from-amber-50 via-white to-white px-4 py-14 sm:px-6 lg:py-20">
     <div className="mx-auto max-w-5xl">
       <header className="mx-auto mb-8 max-w-2xl text-center sm:mb-10">
-        <p className="mb-3 text-xs font-bold uppercase tracking-[0.25em] text-amber-700">
+        {/* <p className="mb-3 text-xs font-bold uppercase tracking-[0.25em] text-amber-700">
           Hajj Operations · 2027
-        </p>
+        </p> */}
         <h1 className="text-3xl font-extrabold tracking-tight text-emerald-950 sm:text-4xl">
           Hajj 2027 Packages
         </h1>
